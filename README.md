@@ -22,7 +22,7 @@ pip install -r requirements.txt
 You can run the commands below to train and test our model on Snopes Dataset.
 
 ```
-python MasterFC/master_get.py --dataset="Snopes" \
+python MasterFC/ecfend.py --dataset="Snopes" \
                              --cuda=1 \
                              --fixed_length_left=30 \
                              --fixed_length_right=100 \
