@@ -7,7 +7,6 @@
 The models used are:
 - **Llama2-7b**
 - **Llama3-13b-instruct**
-- **GLM4-9b-chat**
 
 The model parameters are sourced from Huggingface.
 
