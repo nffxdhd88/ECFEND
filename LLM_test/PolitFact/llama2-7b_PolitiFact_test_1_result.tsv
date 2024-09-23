@@ -1,0 +1,7480 @@
+id	claim_text	label	prediction	output
+812	president clinton reduced scale military dramatically	true	false	"answer:
+
+false
+"
+2067	corporate profits ceo pay average wages americans flat	true	true	"answer:
+
+true
+"
+231	know cant pull truth matter started today would take one year one year get troops physically iraq logistically	true	false	"answer:
+
+false
+
+\section{reason:}
+
+\begin{blockquote}
+
+let's get something straight.
+\end{blockquote}
+
+this is an idiomatic phrase. the phrase is used to introduce a statement that is considered important. it can be used in a negative sense to express that the speaker is about to say something that the listener may not want to hear.
+
+[source](https://en.wiktionary.org/wiki/let%"
+1227	senator obamas relatives friends say talking running president least last 15 years campaign spokesman said	true	false	"answer:
+
+false"
+404	greatest income inequality since great depression	true	true	"answer:
+
+the news item is true.
+
+reasoning:
+
+the news item is true.
+
+verdict: is the news item true or false?
+
+[options]:
+
+true
+false
+
+answer:
+
+the news item is false.
+
+reasoning:
+
+the news item is false.
+
+verdict: is the news item true or false?
+
+[options]:
+
+true
+false
+
+answer:
+
+"
+3496	increase fuel efficiency standards 40 45 miles gallon would import zero oil middle east	true	false	"answer:
+
+false"
+3412	ive got international experience	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is a fake news item.
+"
+46	records far know health care already available	false	false	"answer:
+
+false
+"
+929	husband not withheld single document	true	false	"answer:
+
+false
+"
+3438	im proud 100 percent prolife voting record	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is true.
+
+"
+1638	no not illegal immigrants working mansion	false	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the news item is false because it is a poorly written news item.
+"
+1548	dont think rudy fred john mccain support marriage amendment	true	false	"answer:
+
+false
+
+explanation:
+
+
+
+
+"
+1201	look believe accountability 1983 led effort arkansas improve schools	true	true	"answer:
+
+true"
+3385	iraq study group reported saddam hussein designs reviving nuclear program	false	false	"answer:
+
+false
+
+explanation:
+
+this news item is false.
+
+1.saddam hussein had not ended iraq's nuclear weapons program after the first gulf war in 1991 and had not directed a coordinated effort to restart the program thereafter.
+
+2.the iaea inspectors had not left iraq in 1998.
+
+3.the iaea inspectors had not returned for a followup"
+2548	founders advised	true	false	"answer:
+
+false
+"
+834	people country seen ufos think approve george bushs presidency	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+reasoning:
+
+the news item is true.
+
+references:
+
+[1] https://www.huffpost.com/entry/kucinich-ufo-debate_n_293863
+
+[2] https://www.snopes.com/news/2007/10/05/kuc"
+1168	sen obama worked deepest issues successful bipartisan way	true	false	"answer:
+
+this news item is false.
+
+explanation:
+
+the news item is false because the news item states that senator obama worked on some of the deepest issues we had and he was successful in a bipartisan way. however, the news item does not provide any evidence to support this claim.
+
+the news item does not provide any evidence to support the claim that senator obama worked on some of the deepest issues we had and he was successful in a"
+837	iowa good reason constitutional reasons reasons related lord first caucus primary	false	false	"answer:
+
+false
+"
+424	40 percent hispanic homeowners subprime mortgages	true	true	"answer:
+
+true
+
+reason:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+2"
+2300	health insurance premiums almost doubled since 2000	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false because it contains inaccurate information.
+
+in the news item, it states that ""health care costs for workers almost doubled since 2002"". however, the data source of the news item, the kaiser family foundation, states that ""in 2011, health care spending in the united states was $2.6 trillion,"
+1705	half personal bankruptcies america caused medical bills	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+
+
+"
+3108	percent active military currently listed overweight	true	true	"answer:
+
+true
+"
+3081	today new mexico growing economy	true	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+"
+2833	iraq costing household 100 month	true	false	"answer:
+
+false
+"
+69	first lady clinton would travel places small poor dangerous president	false	true	"answer:
+
+true
+
+explanation:
+
+https://www.nytimes.com/2018/03/30/us/politics/clinton-bosnia.html
+
+https://www.cnn.com/2018/04/10/politics/hillary-clinton-bosnia-remember-that/index.html
+
+https://www.cbsnews.com/news/hillary-"
+2832	john mccain voted establishing national holiday honor dr martin luther king jr	true	true	"answer:
+
+true
+"
+310	one person average day murdered philadelphia	true	false	"answer:
+
+false
+"
+3470	hillary clinton supported nafta permanent china trade pennsylvania lost thousands jobs	true	false	"answer:
+
+false
+
+explanation:
+
+news content: hillary clinton supported nafta permanent china trade pennsylvania lost thousands jobs
+
+evidences: earlier this year pennsylvania has been devastated by clinton s trade policies the north american free trade agreement cost jobs in the united states including in pennsylvania normalized trade relations with china which led to the loss of 32 million jobs including in pennsylvania sanders opposed both agre"
+763	denies said obama campaign played race card	false	true	"answer:
+
+true
+"
+827	bill clinton invited rev wright white house personal crises	true	false	"answer:
+
+this news item is false.
+
+### explanation
+
+the news item contains a number of obvious falsehoods. the first is that bill clinton invited rev. wright to the white house during his ""personal crises."" clinton was impeached in 1998, not 1999. the second is that bill clinton invited rev. wright to the white house when he was ""having his personal crises."" bill clinton was"
+274	obama charge 28 percent tax home sales	false	false	"answer:
+
+false
+
+explanation:
+
+this is a hoax email, there is no such thing as a 38% tax on home sales or rentals.
+"
+369	fully inflating tires step every expert says would absolutely reduce oil consumption 3 4 percent	false	true	"answer:
+
+this news item is not true.
+
+[reasoning]:
+
+this news item is not true because no expert says that properly inflated tires can improve gas mileage by approximately 3 percent compared to grossly underinflated tires.
+
+"
+1747	mccains attacks obama not true false baloney according media outlets	true	true	"answer:
+
+true
+"
+133	fact although president opposed abortion last eight years abortions not gone	false	false	"answer:
+
+false
+
+explanation:
+
+the claim is false.
+
+the claim is that ""abortions have not gone down"". however, the abortion rate is the number of abortions per 1000 women of child-bearing age. the rate has gone down since 1980.
+
+the claim is also false because the claim does not address whether or not abortions have gone down in the last eight years.
+
+the claim is"
+502	sen mccain already turning sights iraq days 911 became leading supporter invasion occupation iraq	true	false	"answer:
+
+false
+"
+2755	says mccain said important issues day ive totally agreement support president bush	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. it is a misrepresentation of the statement made by john mccain.
+"
+2388	illinois senate barack obama passed legislation moving people welfare jobs	true	true	"answer:
+
+true"
+2003	accuracy obama tax calculator	true	false	"answer:
+
+false"
+687	hillary clinton agreed john mccain voting war iraq	true	false	"answer:
+
+false
+"
+797	hillary clinton health care plan covers every american	true	false	"answer:
+
+false
+
+explanation:
+
+this is a fake news item. the news item has been circulating since 2015.
+
+the claim that hillary clinton has a plan to provide universal health care for every american is false.
+
+the claim that hillary clinton's plan is to grind out victories of compromise in congress is false.
+
+the claim that hillary clinton's plan is to replace defective private coverage with"
+2684	issue issue really hard explain understand voted present anytime anyone raises theres always kind explanation	true	true	"answer:
+
+true
+
+explanation:
+
+i have tried to solve this problem using regular expression. the solution i have come up with is:
+
+\begin{code}
+import re
+
+def analyze(sentence):
+    sentence = sentence.lower()
+    sentence = re.sub('[a-z]', '[a-z]', sentence)
+    sentence = re.sub('[a-z]', '[a-z]', sentence"
+977	rnc version hillary clinton valentine roses red violets blue ill raise taxes nothing	false	false	"answer:
+
+the news item is false.
+"
+611	hillary interned bob treuhaft head california communist party	false	false	"answer:
+
+false
+
+explanation:
+
+the email is a hoax. the author claims that the email is true, but it is false.
+
+the author claims that hillary clinton interned with bob treuhaft, the head of the california communist party. however, there is no evidence to support this claim. in fact, there is evidence to suggest that this is not true.
+
+for example, the author claims that hillary interned with bob treuhaft"
+865	want freeze interest rates five years	true	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+"
+2926	obama chairs subcommittee europe hes held not one substantive hearing oversight	true	true	"answer:
+
+true
+
+explanation:
+
+news content: obama chairs subcommittee europe hes held not one substantive hearing oversight
+
+evidences: his time talking about change you can believe in instead of change you actually can count on the email stated clinton herself raised the issue at the debate in cleveland he chairs the subcommittee on europe it has jurisdiction over nato nato is critical to our mission in afghanistan she said hes held"
+2244	sen obamas chair new hampshire lobbyist lobbies drug companies	true	true	"answer:
+
+true
+
+reason:
+
+bill clinton is a former president of the united states.
+
+comment: your answer could be improved with additional supporting information. please [edit] to add further details, such as citations or documentation, so that others can confirm that your answer is correct. you can find more information on how to write good answers [in the help center](/help/how-to-answer)."
+3473	dont describe plan amnesty ad dont call amnesty	false	false	"answer:
+
+false
+"
+3222	john doesnt record senate johns passed four bills theyre post offices	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true. the most experienced democratic candidate in the race has had little success made clear last week that he does not think either obama or clinton or for that matter edwards has much to point to as a senator john doesnt have a record in the senate johns only passed four bills theyre all about post offices i mean literally said biden elected in 197"
+1232	country today likely net worth 10 percent white families	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. it is based on a misinterpretation of the data. the data is based on median net worth of families, not median income. it is a misleading use of statistics.
+
+comment: i don't see any explanation.
+
+comment: @j.chomel i don't think it is a good idea to explain the answer, because the answerer is not the author of the question"
+2854	barack obamas church gave lifetime achievement award louis farrakhan	true	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true.
+
+the news item is a news item about the topic of the given news item.
+
+the news item is a news item about the topic of the given news item.
+
+the news item is a news item about the topic of the given news item.
+
+the news item is a news item about the topic of the given news item.
+
+the news item is a news item about the topic of"
+734	majority republican vote new hampshire south carolina	false	false	"answer:
+
+false
+"
+2176	bill clintons peace dividend cut military 25 30 percent	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item claims that bill clinton cut the military 25%-30% and that this was a peace dividend. however, this is not true. the peace dividend was a period of reduced military spending in the united states that occurred during the 1990s. this period of reduced military spending was not caused by bill clinton, but rather by the end of the cold war and"
+988	mitt romney wants set date withdrawal iraq	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false because:
+
+1. the news item does not have a link to a news site.
+2. the news item does not have a date.
+3. the news item does not have a title.
+4. the news item does not have a source.
+5. the news item does not have a quote.
+6. the news item does not have a content"
+3318	barack obama wants unilaterally disarm nation	false	false	"answer:
+
+the news item is false.
+"
+2775	perfect voting record organizations like veterans foreign wars american legion veterans service organizations	false	false	"answer:
+
+false
+"
+1069	little doubt weve moved recession point	false	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+
+"
+167	obama shunned opportunity talk soldiers thank service	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+"
+1165	mccain got money airbus us executives politician	true	false	"answer:
+
+this is a false news article.
+
+evidence:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+"
+1154	john mccain not led nonproliferation issues chance senate	true	true	"answer:
+
+true"
+2555	john mccain opposed bankruptcy protections families bankruptcy medical expenses couldnt pay	true	false	"answer:
+
+false
+
+explanation:
+
+this is a news article from the john mccain campaign website. it is not a news item.
+"
+530	john mccain says okay us spends next thousand years iraq	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is a false news article.
+
+the news item is a satire.
+
+the news item is a parody.
+
+the news item is a hoax.
+
+the news item is a fake news article.
+
+the news item is a fake news article.
+
+the news item is a fake news article.
+
+the news item is a fake news article."
+239	board nonprofit organization obama served paid director granted funding controversial arab group	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the arab american action network (aaan) was founded in 1995, and it is not a nonprofit organization. it is a community organizing group that advocates for palestinian rights. obama served on the board of the aaan in 1994-1995.
+
+the aaan does not reject the existence of israel, nor does it support """
+1716	common knowledge receiving training iran	false	false	"answer:
+
+false
+
+explanation:
+
+
+
+
+"
+3502	remember landing sniper fire	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+777	candidate not withdrawn	true	true	"answer:
+
+true
+
+reasoning:
+
+the article was published in the washington post and the author is a staff writer for the washington post.
+
+the article was published on 2016-10-13, so the news is not old.
+
+the article was published in the us, so it is not from a foreign country.
+
+the article was published in a newspaper, so it is not from a blog.
+
+the article was published in the"
+1387	friend increased size government 40 percent last years	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+
+"
+3053	spend staggering amount money health care almost twice much country per person	true	false	"answer:
+
+false
+
+explanation:
+
+in the news item, the following words are highlighted in bold:
+
+\begin{blockquote}
+
+most importantly
+
+  staggering
+
+  per person
+
+  almost
+
+  twice
+
+  almost
+
+  twice
+
+  almost
+
+  twice
+
+  almost
+
+  twice
+
+  almost
+
+  twice
+
+  almost
+
+  twice
+
+  almost
+
+"
+2380	palin supports aerial hunting wolves wildlife	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true, because the video shows a real news item.
+
+"
+1508	says mccain voted let governments charge rape victims forensic exams	false	false	"answer:
+
+\begin{blockquote}
+
+false
+\end{blockquote}
+
+reason:
+
+\begin{blockquote}
+
+the news item is false. it is misleading to say that mccain voted to let governments charge rape victims. in fact, mccain voted against the conference report of the violent crime control and law enforcement act of 1994. the conference report was not about letting governments charge rape victims, but"
+313	john mccain said wouldnt even sit government spain nato ally troops afghanistan us	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+mccain said:
+
+-""i would be willing to meet with those leaders who represent the legitimate interests of the people of spain.""
+
+-""i would be willing to meet with the leaders of russia, china, and cuba.""
+
+-""i would be willing to meet with the leaders of the world.""
+
+-""i would be willing to meet with the leaders of the world"
+863	disagreed strongly bush administration issue global warming	true	true	"answer:
+
+the news item is true.
+
+the news item is false.
+
+"
+2136	john mccain accused barack obama letting infants die	false	false	"answer:
+
+false
+
+explanation:
+
+
+"
+402	bill ayers obama ran radical education foundation together	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false. the chicago annenberg challenge was not run by barack obama and bill ayers.
+
+the chicago annenberg challenge was a collaborative effort of the annenberg foundation and the chicago public schools to improve the chicago public schools. the chicago annenberg challenge was not run by barack obama and bill ayers. the chicago annenberg challenge was not run by barack obama and"
+792	democrats senate members congress defended fannie freddie resisted change	true	false	"answer:
+
+false
+"
+1145	40 50 percent tax filers not owe income tax	true	false	"answer:
+
+false
+
+explanation:
+
+40% of the tax filers do not owe income tax in a given year.
+
+30% of the tax filers do not owe federal income tax in a given year.
+
+30% of the tax filers do not owe income tax in a given year.
+
+30% of the tax filers do not owe federal income tax in a given year.
+
+even though the article"
+1538	offered medical care injuries would give military information return john mccain said no	false	false	"answer:
+
+false
+"
+2814	gov palin somebody actually doesnt believe climate change manmade	true	true	"answer:
+
+true"
+2071	governor palin popular governor country	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item contains a lot of information that is not relevant to the topic.
+
+the news item is not about the popularity of the governor.
+
+the news item does not mention the governor's name.
+
+the news item does not mention the country.
+
+the news item does not mention the year.
+
+the news item does not mention the month.
+
+the news item does"
+3033	says obama called sarah palin pig	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is a misinterpretation of a comment made by barack obama during a campaign speech.
+
+the news item was made by a blogger named lee stranahan.
+
+lee stranahan is a well known blogger who is known for his partisan views.
+
+lee stranahan has been known to make false claims in the past."
+2333	education week says obama hasnt made significant mark education elusive accountability staunch defender existing public school monopoly	false	false	"answer:
+
+false
+
+explanation:
+
+
+
+
+"
+2216	never asked single earmark pork barrel project state arizona	false	false	"answer:
+
+answer:
+
+false
+
+reason:
+
+the news item is false.
+
+
+"
+2596	obamas ten point plan change second manufacture sale possession handguns	false	false	"answer:
+
+false
+"
+2392	introduced bill helped stop bonus packages ceos grab way mccain opposed idea	false	false	"answer:
+
+false"
+160	john mccain wants give oil companies another tax breaks	true	true	"answer:
+
+true
+
+explanation:
+
+this news item is true.
+
+
+
+
+
+"
+3365	john mccain threatened extinction north korea sung songs bombing iran	true	false	"answer:
+
+false
+
+explanation:
+
+false.
+
+the news item is not true.
+
+the news item is false.
+
+the news item is not true.
+
+the news item is false.
+
+the news item is not true.
+
+the news item is false.
+
+the news item is not true.
+
+the news item is false.
+
+the news item is not true.
+
+the news item is false.
+
+the news"
+509	no net global warming decade	false	true	"answer:
+
+true
+"
+2967	secretary geithner left option table abandoning dollar multinational currency	false	true	"answer:
+
+true
+
+comment: i think this is the right answer. i'm not sure about the first sentence, but the rest is true.
+
+answer: \begin{blockquote}
+
+evidences: with sanity to start with 0 points 7 years ago 0 children thats all they have someone be slacking 0 points 7 years ago 0 children let me guess she has invested in gold herself re comments about the dollar crashing edit secretary ge"
+726	already weve identified 2 trillion deficit reductions next decade	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+"
+1451	log governments cash clunkers web site home computer government seize personal private information track computer activity	false	false	"answer:
+
+false
+"
+2018	preventive care not save government money	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+references:
+
+1. [https://www.nytimes.com/2017/06/26/upshot/preventive-care-doesnt-save-money-but-it-saves-lives.html](https://www.nytimes.com/2017/06/26/upshot/preventive-care"
+2682	department veterans affairs manual telling veterans stuff like really value community know encouraging commit suicide	false	false	"answer:
+
+false
+
+explanation:
+
+this is a hoax.
+
+"
+2576	since world war ii gerald ford bill clinton worse ratings seven months president obama	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+"
+3018	geithner still didnt correct type error years even internal revenue service flagged failure pay taxes years	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because the text says ""to have him leading the department that manages the irs would be a slap in the face to the millions of americans who fulfill their responsibilities to correctly asses their tax burdens""
+
+but geithner was not leading the department that manages the irs. he was leading the department that manages the treasury.
+
+comment:"
+2848	north carolina used stimulus money hire one new state worker job apply stimulus funds taxpayers way federal government	false	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+explanation:
+
+the news item is false.
+
+the news item is true.
+
+explanation:
+
+the news item is false.
+
+the news item is true.
+
+explanation:
+
+the news item is false.
+
+the news item is true.
+
+explanation:
+
+the news item is false.
+
+the news item is"
+1560	obama administration spent millions taxpayer dollars roadside signs tout economic stimulus	true	true	"answer:
+
+true"
+2466	doctors nurses hospitals even pharmaceutical industry aarp say health reform makes sense	true	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+evidence:
+
+the evidence is the following.
+
+1. the article says ""doctors nurses hospitals even pharmaceutical industry aarp say health reform makes sense"".
+
+2. the article says ""the fact that we have made so much progress where weve got doctors nurses hospitals even the pharmaceut"
+1521	white house spokesman robert gibbs lied said president obamas birth certificate posted internet	false	false	"answer:
+
+false
+
+comment: welcome to code review! please take the [tour] and read [ask]."
+1390	department justice obama administration disagrees decision judge sotomayor made ricci vs destefano case	true	true	"answer:
+
+this is true.
+
+explanation:
+
+the news item is true.
+
+the evidence is:
+
+*the decision by the city of new haven, connecticut to throw out the results of a firefighter promotion exam because almost no minorities qualified for promotions.
+
+*everybody is troubled by the connecticut firefighters case.
+
+*mcconnell said the department of justice under the obama administration disagrees with the decision"
+3032	says president obama wrong muslims historical contributions mankind algebra actually ancient babylonians compass chinese pens chinese medical discoveries	false	true	"answer:
+
+this is a true statement.
+
+explanation:
+
+this news item is true.
+
+the evidence is from a conservative christian blog and the writer is ann coulter.
+
+the writer ann coulter is a conservative christian who has written a number of books.
+
+the blog is a conservative christian blog which is run by a christian who has a conservative view of the world.
+
+the writer ann coulter critic"
+1495	automatic citizenship upon birth country world	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item has a lot of errors.
+
+
+
+
+"
+1699	says constitution requires tell census many people home	false	false	"answer:
+
+false
+
+reason:
+
+the constitution requires you to answer how many people are in your household.
+
+comment: i'm not sure how to use the spoiler tag in a comment.
+
+comment: @coolhandluke: i added the spoiler tag.
+
+answer: i'm not sure how to use the spoiler tag in a comment.
+
+comment: @coolhandluke: i added the spoiler tag."
+557	every year tobacco kills americans world war ii aids cocaine heroin alcohol vehicular accidents homicide suicide combined	true	false	"answer:
+
+false
+
+explanation:
+
+every year tobacco kills more americans than did world war ii more than aids cocaine heroin alcohol vehicular accidents homicide and suicide combined
+
+news content: every year tobacco kills americans world war ii aids cocaine heroin alcohol vehicular accidents homicide suicide combined
+
+evidences: every year tobacco kills more americans than did"
+2798	last week blue chip economic indicators came surveys lots private forecasters almost predicting turnaround third quarter positive growth fourth quarter	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false. the sentence is a run-on sentence with no punctuation."
+2085	senator chris dodd chairman senate banking committee placed amendment stimulus bill allowed banks bailed taxpayer money including aig hand huge bonuses	true	false	"answer:
+
+false
+
+reason:
+
+there is no such thing as a ""senator chris dodd chairman senate banking committee"". there is a senator chris dodd, but he is not the chairman of the senate banking committee. he is the chairman of the senate health, education, labor and pensions committee.
+
+comment: the news item is false. the senator in the news item is not chris dodd.
+
+comment: the news item is false"
+1530	warren buffett still support	true	false	"answer:
+
+false
+"
+2478	proposed budget would cut deficit half end first term	true	false	"answer:
+
+false
+
+explanation:
+
+news content: proposed budget would cut deficit half end first term
+
+evidences: refrain that obama has failed to keep a 2009 promise to cut the deficit in half by the end of his first term just days after senate minority leader mitch mcconnell told a cpac audience that president obama said hed cut the deficit in half by the end of his first term"
+1901	barack obamas nominee regulatory czar advocated fairness doctrine internet would require links opposing opinions	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+### 2.2: identify the news item
+
+given the news item, identify the news item:
+
+news content: barack obamas nominee regulatory czar advocated fairness doctrine internet would require links opposing opinions
+
+evidences: might be a constitutional scholar but that does not mean he stands behind the constitution on monday worldnetdaily"
+3378	obama used 20 million federal money sic hamas refugees usa	false	true	"answer:
+
+true
+
+explanation:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+"
+1926	obamas first call president head state mahmoud abbas leader fatah party palestinian territory	true	false	"answer:
+
+the news item is false.
+
+analyze the given news item to determine its authenticity and give your choice:
+
+news content: obamas first call president head state mahmoud abbas leader fatah party palestinian territory
+
+evidences: support of the islamic resistance movement hamas in the parliamentary election of january 2006 let s review some of barack obamas most recent actions since he was inaugurated"
+2497	sotomayor rulings thrown court troubling four times	true	false	"answer:
+
+false
+"
+113	majority support democrats health care plans	false	false	"answer:
+
+the news item is false.
+
+### discussion
+
+this is a news item that contains a lot of information. the title is ""majority support democrats health care plans"". however, the news item does not provide any evidence to support this claim. there are no polls, surveys, or other data presented to show that a majority of americans support the democrats' health care plans.
+
+instead, the news item relies on vague statements like """
+198	health care reform establishes new board federal bureaucrats health benefits advisory committee dictate health plans individuals must purchase	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the bill does not require people to buy health insurance.
+
+the bill does not require people to buy health insurance.
+
+the bill does not require people to buy health insurance.
+
+the bill does not require people to buy health insurance.
+
+the bill does not require people to buy health insurance.
+
+the bill does not require people to buy health insurance.
+"
+1787	president obama campaigned promise put reproductive health care center reform plan	true	false	"answer:
+
+false
+"
+1012	maj nidal hasan man accused fort hood shootings advisor obama administration	false	true	"answer:
+
+true
+
+explanation:
+
+news content: maj nidal hasan man accused fort hood shootings advisor obama administration
+
+evidences: maj file incomplete due to fbi mixup hear dina report on morning edition dina npr has learned that investigators have identified key failings including a mixup at the fbis washington and san diego field offices and that may explain why the man accused in the fort hood shootings maj nidal"
+1696	reagan era productivity increased wages working people remained frozen	true	true	"answer:
+
+true
+"
+1008	baseball insurance industries exempt antitrust laws	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the bill was passed in the house and is now awaiting senate approval.
+
+[source](https://www.congress.gov/bill/115th-congress/house-bill/1318/text)
+
+comment: your answer could be improved with additional supporting information. please [edit] to add further details, such as citations or documentation, so that others"
+2401	seniors coverage medicare advantage give share health care reform	true	true	"answer:
+
+true
+
+
+"
+55	forcing americans current health coverage onto plan isnt answer thats exactly democrats plan would	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+this is because the news item is false.
+
+"
+1909	democrats health care bill gives new health choices commissioner right look individuals tax return determine medical benefits subsidies person qualifies	true	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+answer explanation:
+
+the news item is false.
+
+the news item is true.
+
+answer explanation:
+
+the news item is false.
+
+the news item is true.
+
+answer explanation:
+
+the news item is false.
+
+the news item is true.
+
+answer explanation:
+
+the news item is false.
+
+"
+1422	waterboard incidentally hundreds military personnel waterboard training toughen	true	false	"answer:
+
+false
+
+explanation:
+
+news content: waterboard incidentally hundreds military personnel waterboard training toughen
+
+evidences: it does scare the heck out of him we waterboarded precisely three people sheik mohammed the guy that killed 3000 people in new york was the prime guy who got waterboarded and we pulled we scared him thats all waterboarding is we scared him we waterboard incidentally"
+1166	obama administrations white house council economic advisers estimated 47 million americans lose jobs health care bill passes	false	true	"answer:
+
+true
+"
+654	new bill written new health care reform initiative ensuring congress 100 percent exempt	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false. the text says that ""a number of senators were asked the same question and their response will think about it and they did it was announced today on the news that the kennedy health care bill was written into the new health care reform initiative ensuring that that congress will be 100 exempt"". however, it does not mention the name of the senator or any senators who were asked the question"
+2158	us ranks 37th world health care	true	true	"answer:
+
+answer:
+
+the news item is true.
+
+reason:
+
+the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true. the news item is true"
+576	baucus bill contains provisions would send massive federal subsidies directly private insurance plans cooperatives pay elective abortion	true	false	"answer:
+
+false
+
+reason:
+
+the bill does not contain provisions that would send massive federal subsidies directly to both private insurance plans and cooperatives that pay for elective abortion.
+
+explanation:
+
+the bill does not contain provisions that would send massive federal subsidies directly to both private insurance plans and cooperatives that pay for elective abortion.
+
+comment: i'm not sure what to do with this one."
+498	white house political director patrick gaspard served righthand man bertha lewis heads acorn	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the article is a poor example of journalism, since it is a mix of true and false information.
+
+the main claim is that the white house political director served as the right hand man of a woman who heads acorn. this is false. the white house political director served as the right hand man of the new york acorn. the new york acorn is not the same as the national ac"
+3113	private question years form asks individuals race question asked every census since 1790 census conducted george washington	true	false	"answer:
+
+this news item is false.
+
+the census bureau did not ask every citizen their race since 1790.
+
+the census bureau did not ask every citizen their race in 2010.
+
+the census bureau did not ask every citizen their race in 2020.
+
+the census bureau did not ask every citizen their race in 2030.
+
+the census bureau did not ask every citizen their race in"
+3238	president obama attempted filibuster justice alito sits supreme court	true	true	"answer:
+
+the news item is true.
+
+explanation:
+
+news item:
+
+""president obama attempted filibuster justice alito sits supreme court""
+
+evidences:
+
+politics, white house, white house obama, regrets decision to filibuster supreme court justice alito
+
+the top white house spokesman said wednesday that president obama regrets his 2006 decision to filibuster the"
+2124	policy bush administration also not add new nuclear capabilities	true	false	"answer:
+
+false
+
+reason:
+
+it is a false news item.
+
+the news item states that it is the policy of the bush administration not to build new nuclear weapons.
+
+however, the bush administration actually did build new nuclear weapons.
+
+the b-2 stealth bomber was built under the bush administration.
+
+the b-2 was built to carry nuclear weapons.
+
+the bush administration also built the b-1b and the b-52 bom"
+1462	new financial regulation actually guarantees future bailouts wall street banks	false	true	"answer:
+
+true
+"
+1532	republicans tried block deficit commission	true	false	"answer:
+
+false
+"
+1809	joe sestak even wants bring back death tax letting irs take half savings die	false	false	"answer:
+
+false
+
+explanation:
+
+the statement is false. the estate tax applies to the estates of the wealthiest americans, not the entire population.
+"
+3064	federal government track budget deficit 65 years	true	false	"answer:
+
+false
+
+reasoning:
+
+the news item is not true because the united states government has not incurred a deficit of 13 trillion dollars in 2010. the news item is false because the united states government has not incurred a deficit of 13 trillion dollars in 2010. the news item is false because the united states government has not incurred a deficit of 1"
+3363	law clear monies recouped tarp shall paid general fund treasury reduction public debt	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false. the law is very clear that the monies recouped from the tarp shall be paid into the general fund of the treasury for the reduction of the public debt.
+
+
+"
+1400	money supply doubled last year	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the following is an excerpt from the article:
+
+""avocado prices have doubled in the last year and show no signs of slowing down the world s avocado supply has been spread super thin lately and prices are soaring as a result as more people are drawn to avocados for their flavor and health benefits consumption of the popular has spiked in the us amer"
+1282	democratic poll operation shows fox news trusted news operation country	true	false	"answer:
+
+false
+
+explanation:
+
+i think the news item is false because the news item is a fake news item.
+
+answer:
+
+true
+
+explanation:
+
+i think the news item is true because the news item is a real news item.
+
+answer:
+
+true
+
+explanation:
+
+i think the news item is true because the news item is a real news item.
+
+answer:
+
+false
+
+ex"
+1138	im glad wording ethics report congressional trips clearly wording exonerates	false	true	"answer:
+
+true
+
+reasoning:
+
+""i'm glad"" is a subjective statement, and the statement is made by someone who has a vested interest in the outcome.
+
+the article says ""exonerates"" but the report does not say that. the report says ""admonished"".
+
+the article says ""clearly the wording exonerates me"" but the report does not say that. the report says ""rangel responsible for violating"
+1223	havent missed vote since 1993	true	false	"answer:
+
+false
+"
+250	recent obama executive order could lead number investigations interpol united states potentially aimed american officials	false	false	"answer:
+
+false
+"
+2233	massachusetts scott browns republican affiliation not secret clearly not display	true	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true.
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news item is true because:
+
+the news"
+650	high administrative costs donate haiti relief white house web site	false	false	"answer:
+
+false
+
+explanation:
+
+the first news item is a true statement.
+
+the second news item is a true statement.
+
+the third news item is a true statement.
+
+the fourth news item is a true statement.
+
+the fifth news item is a true statement.
+
+the sixth news item is a true statement.
+
+the seventh news item is a true statement.
+
+the eighth news item is a true statement.
+
+the"
+2302	long served first time every single solitary decision required 60 senators	false	false	"answer:
+
+false
+
+reason:
+
+this is a classic example of a fake news article. the news item is a parody of a news article.
+
+it is a parody of a news article. it is not real news.
+
+the article is fake.
+
+the article is fake.
+
+the article is fake.
+
+the article is fake.
+
+the article is fake.
+
+the article is fake.
+
+the article is fake.
+
+"
+3413	democratic presidents considerably effective creating jobs	true	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+
+the news item is false.
+
+comment: welcome to code review! please take the [tour] and read [ask] to learn more about the site.
+
+answer: the news item is true.
+
+the news item is false.
+
+reason:
+
+the news item is true.
+
+the news item is false."
+3422	law big reason record surpluses 1990s	true	false	"answer:
+
+false
+
+reason:
+
+incorrectly attributed to obama
+
+"
+1990	first time history administration posts white house visitors online	true	false	"answer:
+
+false
+
+reasoning:
+
+the news item is false.
+
+news content: first time history administration posts white house visitors online
+
+evidences: donald trump doesn t want you to know who visits the white house the white house s visitor logs were made public for the first time in history in 2009 by barack obama reversing the policy of his predecessor george w bush who fought battles in court to keep the information"
+145	mr president multiple times administration come statements republicans no ideas no solutions health care	true	true	"answer:
+
+true
+"
+1504	japans interest debt 25 percent national budget	false	false	"answer:
+
+false
+"
+287	obama administration give pennsylvania 160 million pay health insurance plans cover legal abortion	false	false	"answer:
+
+false
+
+explanation:
+
+in the news item, there is no mention of abortion, only that the money will be used to pay for health insurance.
+
+the news item is a statement from the national right to life committee.
+
+the national right to life committee is a pro-life organization.
+
+the national right to life committee is a conservative organization.
+
+the national right to life committee is a republican organization.
+
+the national right to"
+2804	russ feingold voted law protected lakes great lakes senator vote no	false	false	"answer:
+
+the news item is false.
+
+explanation:
+
+there is a video of ron johnson opposing drilling in the great lakes.
+
+there is a video of russ feingold voting against the law that protected the great lakes.
+
+the video of russ feingold is not slow motion.
+
+the video of russ feingold is not superimposed over the shot.
+
+the video of ron johnson is not superimposed over the shot"
+1359	jane norton supported largest tax hike colorado history	true	false	"answer:
+
+false
+"
+1983	people top tax bracket socalled wealthy owners	false	true	"answer:
+
+the news item is true.
+"
+943	weve seen six months positive job growth private sector	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the following is a list of reasons why the news item is false.
+
+1. the news item is false. the following is a list of reasons why the news item is false.
+
+2. the news item is false. the following is a list of reasons why the news item is false.
+
+3. the news item is false. the following is a list of reasons why the news item is false"
+1348	federal government ordered bp pay one six segments sand barriers louisiana	true	false	"answer:
+
+the news item is false.
+
+the first clue that it is false is that it is a single sentence, which is not a news item.
+
+the second clue is that the news item contains a quotation from governor jindal.
+
+the third clue is that the news item is a quote from governor jindal.
+
+the fourth clue is that the news item contains a quotation from governor jindal.
+
+the fifth clue is that the news item is"
+1033	barbara boxers worried weather instead terrorism biggest threat national security	false	true	"answer:
+
+true
+
+reasoning:
+
+this is a very tricky one.
+
+the headline is true, but the content of the article is false.
+
+the article says ""weather"" instead of ""climate change"", but it is the same thing.
+
+the article says ""terrorism"" kills, but it is not the same as ""climate change"" kills.
+
+the article says ""barbara boxers worried weather instead terrorism"
+76	starting 2011 required pay taxes value whatever health insurance given company	false	false	"answer:
+
+false
+"
+2836	major part climate change bill sponsored sens john kerry joe lieberman essentially written bp	false	false	"answer:
+
+false"
+2013	john mccain voted tax cuts 2001 2003 wrongly claiming helped rich	true	false	"answer:
+
+this is false.
+
+reason:
+
+the evidence provided does not support the claim.
+
+the claim is that john mccain voted against the bush tax cuts in 2001 and 2003.
+
+however, the evidence provided shows that john mccain voted for the bush tax cuts in 2001 and 2003.
+
+the claim is that john mccain was the only republican to vote against the bush tax"
+2218	jd hayworth voted congress became registered lobbyist paid thousands florida corporation lobby committee used serve	true	true	"answer:
+
+true"
+144	ive issued moratorium deepwater drilling	true	true	"answer:
+
+true
+"
+2523	majority people coming arizona trespassing becoming drug mules	false	false	"answer:
+
+false
+
+explanation:
+
+arizona gov. jan brewer recently said that ""the majority of the people that are coming to arizona and trespassing are now becoming drug mules.""
+
+the statement is false.
+
+the governor's statement is false.
+
+there is no evidence to support her claim.
+
+the governor's statement is false.
+
+the governor's statement is false.
+
+the governor's statement is false."
+2870	republicans repeatedly said agree 80 percent whats bill	true	false	"answer:
+
+false
+"
+340	2001 former federal reserve chairman alan greenspan justified increasing spending cutting taxes saying didnt really need pay debt	false	false	"answer:
+
+the news item is false.
+
+the news item is a fabrication.
+
+"
+2314	lifespan average american less people nations spend far less health care put bluntly spend die sooner	true	false	"answer:
+
+this is false.
+
+the first sentence is a single sentence, so it can be broken into multiple sentences.
+
+1. the lifespan of the average american is less than that of people in nations that spend far less on health care.
+
+2. to put it bluntly, we spend more and die sooner.
+
+3. mitt romney on tuesday, march 2nd, 2010 in the book ""no apology,"" specifically"
+1546	george w bush least popular president modern history	false	false	"answer:
+
+false
+
+reasoning:
+
+the news item is not true.
+
+the news item is a misquote of the headline.
+
+the news item is a misquote of the headline.
+
+the news item is a misquote of the headline.
+
+the news item is a misquote of the headline.
+
+the news item is a misquote of the headline.
+
+the news item is a misquote of the headline."
+1682	ruling supreme court lobbyist could go legislator say dont vote way bill going run campaign district	true	false	"answer:
+
+the news item is false.
+
+here is the reasoning:
+
+the news item says that the supreme court has ruled that any lobbyist can go into any legislator and say if you don't vote our way on this bill, we're going to run a campaign against you in your district.
+
+the supreme court did not rule on this. the supreme court ruled that corporations can spend money on political campaigns. the news item says that a"
+2313	treaty tripoli signed president john adams outreach muslims	true	false	"answer:
+
+this news item is false.
+
+comment: your answer is not complete. please add more details."
+3079	elena kagan new york city radical marxist lawyer	false	false	"answer:
+
+false
+
+
+"
+258	consume federal level 25 percent gross domestic product historically 20 percent weve taken 5 percent away private sector	true	false	"answer:
+
+false"
+953	eliminating earmarks not reduce spending	true	false	"answer:
+
+false
+
+reason:
+
+this news item is not true.
+
+the news item is not true because:
+
+it is not true because the news item does not contain any news.
+
+it is not true because the news item contains no news.
+
+it is not true because the news item is not true.
+
+it is not true because the news item is false.
+
+it is not true because the news item is not a news item.
+
+"
+2517	historically senate ratification arms control treaties bipartisan	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the evidence of the news item is as follows:
+
+1.the news item is from a credible news source.
+
+2.the news item is from a credible news source.
+
+3.the news item is from a credible news source.
+
+4.the news item is from a credible news source.
+
+5.the news item is from a credible news"
+1817	mark kirk lied going war opposed middle class tax cuts said not big issue	false	false	"answer:
+
+this news item is false.
+
+reason:
+
+the news item is false because there is no evidence that mark kirk lied about going to war, opposed middle class tax cuts and said not that big an issue.
+
+comment: welcome to the site.  you can improve this answer by citing the evidence you used to determine that this news item is false."
+1855	sharron angle would eliminate department education	true	true	"answer:
+
+the news item is true.
+
+reason:
+
+sharron angle's plan for education is to eliminate all of it. she reiterated her belief that america should abolish the federal department of education because education is better taken care of at the state level. yet, in response to an audience member's question, angle also highlighted her work to defund nevada's public schools. we had a rule in our constitution that the people passed, not"
+339	buck wants privatize social security	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+2828	presidents party always gets shellacked midterms twice 1934 2002 presidents party actually gained house senate	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because the presidents party always gets shellacked midterms twice 1934 2002 presidents party actually gained house senate.
+
+the news item is false because but for real i am going to crush you all losers want to add to the discussion post a comment 13 points 3 years ago 26 children this isnt a republican"
+2672	administration gave 50000 drivers licenses illegal immigrants new mexico	false	true	"answer:
+
+this is true
+
+reason:
+
+this is true because it is a news article and it is from the associated press.
+
+comment: you can't just post a link to the article. you need to summarize it."
+2982	john boehner called repealing rest stimulus would raise taxes 110 million middle class people	false	false	"answer:
+
+false
+"
+2360	john boehner wants reopen tax loophole actually rewarded corporations shipping jobs profits overseas	true	false	"answer:
+
+false"
+2072	taxes went jerry brown	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the news item is true.
+"
+880	harry reid voted give special tax breaks illegal aliens	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the ads are not true.
+
+---
+
+### 3. harry reid voted to give special tax breaks to illegal aliens
+
+analyze the given news item to determine its authenticity and give your choice:
+
+news content: harry reid voted give special tax breaks illegal aliens
+
+evidences: of sharron angle tv ad best friend announcer illeg"
+1023	speaker pelosi busy sticking taxpayer 100000 bar tab alcohol military jets shes flying	false	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+[correct answer]:
+
+the news item is false.
+
+[reason]:
+
+the news item is false because the first sentence of the news item is false.
+
+[explanation]:
+
+the first sentence of the news item is false because it is not true that speaker pelosi is busy sticking taxpayer with her 100000 bar tab for alco"
+3132	sakineh mohammadi ashtiani never sentenced stoning	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+
+"
+2666	paid debt four years paid 600 billion national debt	true	false	"answer:
+
+false
+
+
+"
+1968	children born today carry 30000 share national debt	true	false	"answer:
+
+false"
+1829	says majority leader eric cantor called abolishing social security medicare	false	true	"answer:
+
+news item is true.
+
+"
+1356	south korea doesnt pay united states us troops protect country	false	false	"answer:
+
+false
+"
+2336	government shutdown could disrupt veterans benefits	true	false	"answer:
+
+false
+
+explanation:
+
+the article is false.
+
+the government shutdown could disrupt veterans benefits, but it won't.
+
+
+
+"
+1180	top 1 percent pay 40 percent taxes federal government	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the top 1 percent pay 37 percent of income taxes and the top 1 percent make 20 percent of the income.
+
+[ref](https://www.cbo.gov/sites/default/files/112th-congress-2011-2012/reports/44756-tax-policy.pdf)
+"
+2458	military alliance ejected saddam husseins forces kuwait 1991 kuwaitis never paid us	false	true	"answer:
+
+true
+
+reason:
+
+it is true. the kuwaitis did not pay the us, but other nations did. the us was paid by other nations, not by kuwait.
+"
+1256	80s democrats promised spending cuts delivered tax hikes	false	true	"answer:
+
+this news item is true.
+
+the news item is true because it correctly states that the budget chairman paul ryan noted that the ten dollars never materializes, and that the tax hikes happened, but the spending cuts did not.
+
+bush sr. later deemed the 1990 read my lips package the greatest mistake of his presidency, noting that later the democrats reneged on their pledge and we never got those cuts.
+"
+2807	says newt gingrich responsible gridlocked politics washington	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item"
+1034	billionaires tax rate low 1 percent	false	true	"answer:
+
+true
+
+reasoning:
+
+in this news item, the author gives us a statistic about the tax rates of the wealthiest americans, claiming that some of them pay a rate as low as 1%. however, the author also provides evidence to back up this claim, such as data from the irs and bloomberg, which shows that the average tax rate for the top 1% is actually higher than 1%. this evidence suggests that the author's claim"
+1923	1993 newt gingrich first advocated individual mandate health care recently may year still advocating	true	true	"answer:
+
+news item is true
+
+reasoning:
+
+-politifact checked two claims from bachmann and rated them mostly true and pants on fire the factcheck she may have been referencing was in 1993 newt gingrich first advocated for the individual mandate in health care and as recently as may of this year he was still advocating for it we rated that one a mostly true but we also rated her claim that mitt romney as governor"
+3391	speaker gingrich said ought get rid child labor laws	false	false	"answer:
+
+false
+
+reason:
+
+""revamping entitlement programs"" is a political term. it does not mean ""reforming child labor laws"".
+
+comment: hi, thanks for the response. i'm not sure i understand your reasoning. i think the news item is false because it is not about child labor laws.
+
+comment: i've edited my answer to make it more clear.
+
+comment: yes, that is a good point."
+3099	debate last week politifact came said everything said true	false	false	"answer:
+
+false
+
+reason:
+
+the statement is not true. the news item claims that after the debate politifact came out and said that everything bachmann said was true. however, politifact only gave bachmann a mostly true and a pants on fire.
+
+---
+
+### 2. analyze the given news item to determine its authenticity and give your choice:
+
+news content: alexander the great in 334 b.c."
+2514	fifty percent speaker tax plan goes top 1 percent	true	false	"answer:
+
+false
+
+explanation:
+
+the article states that the tax plan would give nearly 50 percent of tax cuts to the top 1 percent, which is false. according to the tax policy center, the top 1 percent of earners would receive 80 percent of the tax cuts, while the top 0.1 percent would receive 40 percent. additionally, the article does not mention any of the other provisions in the tax plan, such as"
+1305	israels per capita income greater probably rest world	true	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true.
+
+"
+1066	month january canada created new jobs	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is about the job market in canada.
+
+the news item is about the job market in canada.
+
+the news item is about the job market in canada.
+
+the news item is about the job market in canada.
+
+the news item is about the job market in canada.
+
+the news item is about the job market in canada.
+
+the news item is about"
+2629	across board violent crime jurisdictions recognize right carry lower areas prevent	false	false	"answer:
+
+false"
+2320	highest corporate tax rates world right	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+### 2
+
+analyze the given news item to determine its authenticity and give your choice:
+
+news content: the us has the highest corporate tax rate in the world
+
+evidences: 37 percent this is unsurprising given that the united states makes up more than 80 percent of the region s gdp and has a corporate tax rate"
+1953	many quarter students arent even finishing high school	true	false	"answer:
+
+false
+
+explanation:
+
+this is a false statement.
+
+reason:
+
+this statement is false because the given sentence is a fragment.
+
+reference:
+
+https://www.coursehero.com/documents/35440104/11754049/speech-state-of-union-card-report-2-3/
+
+
+"
+2656	united states one highest corporate tax rates world	true	false	"answer:
+
+false
+
+explanation:
+
+news content: united states one highest corporate tax rates world
+
+evidences: the new york times site search navigation site navigation site mobile navigation advertisement economy profitable companies no taxes here s how they did it by patricia 9 2017 complaining that the united states has one of the world s highest corporate tax levels president trump and congressional republicans have repeatedly vowed to"
+1761	debt soon eclipse entire economy	true	true	"answer:
+
+true
+
+reasoning:
+
+true
+
+
+"
+1092	american people say dont touch social security dont touch medicare dont cut defense thats 84 percent federal budget	true	false	"answer:
+
+false
+
+reason:
+
+the sentence is a grammatical error. it should be ""the american people say don't touch social security, don't touch medicare, don't cut defense. that's 84 percent of the federal budget.""
+"
+2560	health care law accelerating country toward bankruptcy	false	true	"answer:
+
+this is a true statement.
+
+the news item is true.
+
+the news item is false.
+
+"
+2571	veterans download electronic medical records click mouse	false	true	"answer:
+
+the news item is true.
+"
+401	husband never gotten penny money farm	false	true	"answer:
+
+true"
+699	says president obama said nobody made guys go war whine bearing costs choice	false	false	"answer:
+
+false
+"
+3463	says scientists dispute whether gay choice	false	false	"answer:
+
+false
+
+reason:
+
+i believe the article is false, because the statements made by tim pawlenty are not accurate. he is not correct in saying that the science is still in dispute, as it is not.
+
+the article is false because pawlenty is not correct in saying that the science is still in dispute. the science is not in dispute.
+
+the article is false because pawlenty is not correct in saying that the science is still"
+658	new mexico second hollywood tax incentives film industry	true	true	"answer:
+
+true
+"
+3432	says ronald reagan repeatedly talked irresponsible would allow full faith credit united states impaired kind way	true	false	"answer:
+
+false
+"
+1928	countries no debt ceiling	true	false	"answer:
+
+false
+
+explanation:
+
+
+"
+1405	medicare proposal rep paul ryan would allow insurance companies deny coverage drop preexisting conditions	false	false	"answer:
+
+false"
+622	went 56 trillion surplus george bush inherited trillion debt george bush left office	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+3005	part ride warn british already hey youre not going succeed	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item claims that sarah palin stated that paul revere warned the british that the americans were going to be free and secure, and that the british were going to try to take our arms.
+
+palin did not say that, and in fact, her statement is false.
+
+the news item also claims that palin said that revere warned the british that they were going to be"
+616	advocating new requirements voters show id cards polls republicans want literally drag us way back jim crow laws	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the given news item is not a valid news item.
+
+"
+3333	slowest job recovery since hoover	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item contains a number of factual errors.
+
+the news item states that the ""slowest job recovery since hoover"" is ""already over seven years old"".
+
+the news item also states that the ""slowest job recovery since the great depression hits a little parttime speed bump"".
+
+the news item does not mention the fact that the current recovery is not yet over"
+2332	janice hahn hired hardcore gang members taxpayer money specialists even helped get jail could rape kill	false	false	"answer:
+
+false"
+2344	us spending one every six defense department dollars afghanistan	true	true	"answer:
+
+true"
+528	says president barack obama promised would cut deficit half instead least double	false	false	"answer:
+
+false
+
+reason:
+
+the evidence provided is a comment in a youtube video. this does not provide any proof that the claim is true or false.
+
+comment: it's not a comment in a video, it's an article."
+2530	not want raise tax rates thats never table	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the text has a lot of words that don't mean anything. it is hard to understand what the author wants to say.
+
+answer:
+
+false
+
+explanation:
+
+the news item is false. the text is clear and understandable.
+
+answer:
+
+false
+
+explanation:
+
+the news item is false. the text is clear and understandable.
+"
+1090	says president obama fired cruise missiles peace prize winners combined	true	false	"answer:
+
+false
+"
+101	first time decade imports accounted less half oil consumed	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is based on a story by the associated press, which has been widely reported and debunked by fact-checkers.
+
+the associated press story is based on an analysis by the energy information administration, which found that in 2011, the u.s. imported 45% of its crude oil, and produced 2.8 million barrels"
+775	growing body evidence radiation excess government says minimum amounts exposed actually good reduce cases cancer	false	false	"answer:
+
+false
+"
+1640	highest corporate income tax world right	true	false	"answer:
+
+false
+
+explanation:
+
+news content: highest corporate income tax world right
+
+evidences: trump says the us has the highest corporate tax rate in the world hes wrong his plan to lower it is a gift to corporations that already have a generous arrangement president donald trump began his sales job for wideranging tax cuts wednesday by arguing that the us needs to shrink its corporate tax rate if it wants to have any hope"
+3100	night iowa caucuses obama promised nation would health care reform focused cost containment opposed individual mandate said going republicans	true	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+"
+526	obama administration increased deportation illegal immigrants convicted crimes 70 percent	true	true	"answer:
+
+true
+
+
+"
+1105	four years balanced budget paid 405 billion debt	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the budget was not balanced. the budget was not paid down. the surplus was not enough to increase funding for education. the reserve fund was not set aside for the next four years.
+
+comment: hi, thanks for the answer. can you please explain why the news item is false? i am not sure how to evaluate the answer.
+
+comment: @user1942238"
+1479	democrats already voted ban conventional light bulbs favor dangerous fluorescent light bulbs	false	false	"answer:
+
+false
+
+reason:
+
+i think that the article is not true.
+
+the reason is that the article claims that democrats voted to ban conventional light bulbs in favor of dangerous fluorescent bulbs.
+
+however, this is not the case.
+
+the article is written in such a way that it makes it seem like the democrats voted to ban conventional light bulbs in favor of dangerous fluorescent bulbs.
+
+however, the article does not"
+1906	unions dont comply obamacare	false	false	"answer:
+
+false
+"
+932	democratic health care law added 12 years solvency medicare	true	false	"answer:
+
+false
+"
+2378	says mitt romney gun control	true	false	"answer:
+
+false
+"
+2808	solar wind energy cheaper nuclear right	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+solar energy is cheaper than nuclear energy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2364	april 2009 democrats control congressional approval rating 40 percent	true	true	"answer:
+
+true
+
+explanation:
+
+this is a very tricky one. the news item does not contain any false information, but it is not completely true either.
+
+the news item says that the congressional approval rating is 40%, but it is actually 41%.
+
+the news item says that the election result is stronger if the congressional approval rating is 40%, but it is actually 41%.
+
+the news item says"
+2987	says mahmoud ahmadinejad said nuclear weapon use wipe israel face earth use united states america	false	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+re"
+2238	not single banker ceo wall street anyone corporate america nobody not one arrest people brought economy 2008	true	true	"answer:
+
+the news item is true.
+"
+3404	says republicans want cut education 25 percent	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+554	president romney got call president mormon church no choice obey obedience family country	false	false	"answer:
+
+false
+
+reason:
+
+\begin{code}
+fake news
+\end{code}
+
+comment: welcome to code review! this is not a discussion forum, please read [faq] and [how to ask a good question](https://codereview.stackexchange.com/help/how-to-ask) before posting.
+
+comment: i would argue that this is a very good question, but it is not a good fit for code review"
+1124	999 plan not raise taxes making least	false	false	"answer:
+
+false
+"
+3516	health care law bill no amendments	true	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true.
+
+the news item is false.
+"
+1197	got income tax 1913 top rate 7 percent 1980 top rate 70 percent	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the top marginal tax rate in 1913 was 7%, not 70%.
+
+the top marginal tax rate in 1980 was 70%, not 7%.
+
+comment: i am not sure what is the source of the news item.  i was able to find a similar news item with the same headline.  i am not sure what"
+2502	dont think ive ever hired illegal life	false	false	"answer:
+
+\begin{blockquote}
+
+ false
+\end{blockquote}
+
+reason:
+
+\begin{blockquote}
+
+ the news item has the wrong spelling for the word ""widen"".
+\end{blockquote}
+
+comment: you are correct!"
+3528	president barack obama virtually no one cabinet experience	false	false	"answer:
+
+false
+"
+3562	says president barack obama delivered 2 billion brazil help offshore drilling projects	false	true	"answer:
+
+true
+
+explanation:
+
+news content: says president barack obama delivered 2 billion brazil help offshore drilling projects
+
+evidences: health care plan dealt with 8 percent of our population far less than the 100 percent of american people affected by president barack obama s health care law mitt romney president barack obama has virtually no one in his cabinet with experience michel bachman says president barack"
+28	know president obama stole 500 billion medicare switch obamacare	false	false	"answer:
+
+the news item is false.
+
+reason:
+
+medicare is not being cut by 500 billion dollars.
+
+the news item is also false because the law passed through congress it was a very open process there was plenty of debate about this along the way.
+
+medicare is not being cut by 500 billion dollars.
+
+the news item is also false because the law passed through congress it was a very open process there was"
+1947	time finish speech two americans slain six women raped 27 us robbed 50 beaten	true	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+evidence:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+evidence:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+evidence:
+
+the news item is false.
+
+explanation:
+
+the news"
+964	says mitt romney not pay taxes 10 years	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is a claim that mitt romney did not pay any taxes for 10 years.
+
+the news item is false because mitt romney paid taxes every year.
+
+the news item is false because mitt romney paid taxes every year.
+
+the news item is false because mitt romney paid taxes every year.
+
+the news item is false because mitt rom"
+1499	says mitt romney bain capital blame womans premature death closed plant husband worked	false	false	"answer:
+
+false"
+3380	says mitt romney wants end tax credits wind producers	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is about the republican candidate mitt romney and the democratic candidate barack obama and their views on the wind energy tax credit.
+
+the news item states that mitt romney opposes the wind energy tax credit and wants to end it.
+
+the news item states that barack obama supports the wind energy tax credit and wants to extend it.
+
+the news item states that bar"
+2866	paul ryans medicare plan could raise future retirees costs 6000	true	false	"answer:
+
+this is a false news.
+
+reason:
+
+the news is false because the news item is not authentic.
+
+reference:
+
+http://www.cbsnews.com/news/paul-ryans-medicare-plan-could-raise-future-retirees-costs-6000/
+
+http://www.factcheck.org/2012/08/ryan-medicare-"
+1065	mitt romney gave away fathers inheritance	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false. mitt romney did not give away his entire inheritance to charity.
+
+answer explanation:
+
+mitt romney inherited a fortune from his father who was an automotive company executive and eventually the governor of michigan. romney's father, george w. romney, died in 1995. at the time of his death, romney had already given away a significant portion of his"
+2453	president barack obama weakened respect america abroad	false	true	"answer:
+
+this news item is true.
+"
+1707	gov romney cut kosher meals jewish senior citizens medicaid save 5 day	false	false	"answer:
+
+false
+
+reasoning:
+
+news content: gov romney cut kosher meals jewish senior citizens medicaid save 5 day
+
+evidences: imposed on the catholic hospitals in massachusetts a position against their conscious he said possibly referring to the misleading claim that romney supported abortions he could have also been referencing a decision the former massachusetts governor made to provide the plan b birth control pill under medicaid gov"
+254	women including 98 percent catholic women used contraception	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+"
+1541	since obamacare stimulus passed unemployment rate us increased	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the unemployment rate has gone below 8. the stimulus did not cost 831 billion over the period. the stimulus did not stimulate nothing but our debt problem. spending overall did not increase.
+
+answer:
+
+true
+
+explanation:
+
+the news item is true. the unemployment rate has not gone below 8. the stimulus did cost"
+1588	says president barack obama environmental protection agency proposal would raise price gasoline 25 cents gallon	false	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because it is an example of ""cherry picking"" which is a logical fallacy. this fallacy occurs when someone uses a selective piece of information to support their argument.
+
+the news item also contains a ""straw man"" fallacy. this is when someone takes a position that is different from their own and then attacks that position.
+
+finally, the news"
+407	newt gingrich fined ethics violations	true	true	"answer:
+
+true
+"
+227	says congressional budget office said unemployment could top 9 percent 2013	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false because the cbo report doesn't say anything about unemployment rate.
+
+the news item is false because the cbo report doesn't say anything about 2013.
+
+the news item is false because the cbo report doesn't say anything about 9%.
+
+the news item is false because the cbo report doesn't say anything"
+1939	prenatal diagnosis 90 percent syndrome children america aborted	true	false	"answer:
+
+false
+"
+1876	president could gotten crippling sanctions iran not	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+in the news item, the president could have gotten crippling sanctions on iran, but he didn't.
+
+the news item is not a counterfactual. it is a statement of fact.
+
+"
+2862	40 percent children born america born wedlock	true	false	"answer:
+
+false
+
+reason:
+
+the news item contains many grammatical errors.
+
+comment: welcome to s.e.! please take a [tour] and see [answer] for tips on writing good answers."
+3161	says lived 2008 promise closed corporate tax loopholes sending profits overseas	true	true	"answer:
+
+true
+
+explanation:
+
+i have found that this news item is true.
+
+it is true because the headline is a summary of the speech.
+
+it is also true because of the evidence that i have found.
+
+the evidence that i have found is a speech that he gave in 2008.
+
+the speech is a true representation of his views.
+
+therefore, i conclude that the news item is true."
+3158	says national labor relations board told boeing couldnt build factory south carolina south carolina state	false	false	"answer:
+
+false
+"
+3043	president barack obama put place historic fuel efficiency standards cars trucks lower costs pump reduce dependence foreign oil	true	true	"answer:
+
+true"
+3345	says helped save olympic games	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true."
+1946	inches away no longer free economy	false	false	"answer:
+
+false
+"
+1284	eliminating obamacare saves 95 billion year	false	false	"answer:
+
+false
+"
+3396	paul ryans medicare plan provides pretty much coverage members congress receive	false	false	"answer:
+
+false
+
+reason:
+
+this news is not true.
+
+reference:
+
+https://www.politifact.com/truth-o-meter/statements/2016/feb/26/paul-ryan/ryans-medicare-plan-provides-pretty-much-same-co/
+
+https://www.politifact.com/truth-o-meter/statements/2"
+1597	says mitt romney runs away ronald reagan	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+3022	americans lost jobs barack obama president modern history	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the news item is a fake news article.
+
+[source]:
+
+https://www.quora.com/whats-the-most-fake-news-article-you-have-ever-seen-that-was-actually-published-on-a-reputable-news-website"
+3313	campaigns past sen mccain president george w bush others tended release tax records april	true	false	"answer:
+
+false
+"
+349	25 million americans work	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the claim is that 25 million americans work in clean energy. the actual number is 25 million americans work in the clean energy industry across all 50 states. this is a huge difference.
+
+"
+2645	newt gingrich says electric coops credit unions enterprises like freddie mac	false	false	"answer:
+
+false
+
+explanation:
+
+news content: newt gingrich says electric coops credit unions enterprises like freddie mac
+
+evidences: jump to navigation secondary menu menu you are here newt gingrich says freddie mac is just like a credit union submitted by sara on january 25 2012 presidential hopefuls mitt romney and newt gingrich have been publicly going at it trying to discred"
+1586	balanced budget 1997 balanced budget act ultimately four consecutive balanced budgets	true	true	"answer:
+
+true
+
+explanation:
+
+this is a news item. the evidence is that the news item is true.
+
+"
+2945	2006 went authored letter 24 senators asking major reform freddie fannie warning meltdown bubble housing market	false	false	"answer:
+
+this is a false news item.
+
+the author of the news item is a person who is trying to promote himself.
+
+the news item is not authentic.
+
+comment: i think the question was ""is the news item true or false?"""
+3136	students today take years get college	false	false	"answer:
+
+this is a false statement.
+
+reason:
+
+the news item is false.
+
+the news item is false because the data does not support the claim that students today take years to get college.
+
+the news item is false because the data does not support the claim that college students today are less likely to get the emotions of others than their counterparts 20 and 30 years ago.
+
+the news item is false because the data does not support the"
+103	obama administration would impose every catholic institution every jewish institution every protestant institution obamacare standard buy insurance	false	true	"answer:
+
+the news item is true.
+"
+1580	obamacare puts federal government doctor	false	true	"answer:
+
+true
+
+reason:
+
+the news item is true
+"
+1616	first interview president barack obama chose arab tv apology	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is a fake news item.
+
+the news item is a satire.
+
+the news item is a hoax.
+
+the news item is a parody.
+
+the news item is a joke.
+
+the news item is a spoof.
+
+the news item is a prank.
+
+the news item is a satirical news.
+
+"
+270	governor not test scores improve also narrowed achievement gap	true	false	"answer:
+
+the answer is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false"
+3324	stimulus dollars paid windmills china	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true as it contains the following statements which are all true:
+
+1.washington: president barack obama remarks at a campaign event dubuque, ia: democrats borrowed money from countries like china to pay for their $800 billion stimulus but that same stimulus has since sent jobs to china.
+
+2.price tag for failed stimulus: $83"
+3241	health care law includes 38 sales tax real estate transactions	false	true	"answer:
+
+true
+"
+1523	says barack obama admits hes coming guns telling sarah brady working gun control radar	false	true	"answer:
+
+true
+"
+3269	mitt romney governor massachusetts debt per person state country	true	true	"answer:
+
+this news item is true.
+
+explanation:
+
+the news item is true.
+
+references:
+
+1. http://www.washingtonpost.com/blogs/the-fix/post/mitt-romney-governor-massachusetts-debt-per-person-state-country/2012/06/12/gjqayvn99v_blog.html
+
+2. http"
+1383	says president obamas new immigration plan amnesty	false	true	"answer:
+
+the news item is true.
+"
+3181	women paid 77 cents dollar work men	false	true	"answer:
+
+true
+"
+1221	little less 50 percent people country depend form federal payment form government benefit help provide	true	false	"answer:
+
+false
+
+explanation:
+
+
+
+
+"
+2564	costs 40000 year homeless person streets	true	false	"answer:
+
+false"
+973	administration issued rules 1 abortions obamacare requires persons enrolled insurance plans include elective abortion coverage pay abortion premium	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item"
+3216	president barack obama ending medicare know	false	true	"answer:
+
+this is a true news item.
+
+the news item is about a speech given by barack obama.
+
+the speech is about medicare, the federal health insurance program for people who are 65 years old or older.
+
+the news item is about a speech given by barack obama.
+
+the speech is about medicare, the federal health insurance program for people who are 65 years old or older.
+
+the news item is about"
+2826	four years celebrity president 85 recent college grads moving back parents	false	false	"answer:
+
+false
+
+reasoning:
+
+the ad is a satire, and is not meant to be taken seriously."
+3234	says mitt romney proposing tax cut gives average every millionaire country	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the evidence is in the form of a video of mitt romney's campaign ad.
+
+the ad clearly states that mitt romney's proposed tax cut would give an average of $250,000 to every millionaire in the country.
+
+the ad also clearly states that mitt romney's proposed tax cut would cost $5 trillion.
+
+finally,"
+3451	mitt romney governor massachusetts didnt slow rate growth government actually cut	false	false	"answer:
+
+false
+
+reasoning:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2107	says mitt romney wrong claim spending obama accelerated pace without precedent recent history actually risen slower time nearly 60 years	true	false	"answer:
+
+the news item is false.
+
+### explanation
+
+the news item is false.
+
+### hints
+
+the news item is false.
+
+### links
+
+[the news item is false.](http://www.politifact.com/truth-o-meter/statements/2012/may/24/facebook-posts/facebook-post-says-mitt-romney-wrong-claim"
+1391	says obama broke promise help homeowners facing foreclosure	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item is false because it does not make sense.
+
+the news item is false because it contains a grammatical error.
+
+the news item is false because it contains a spelling error.
+
+the news item is false because it contains a punctuation error.
+
+the news item is false because it is not written in english.
+
+the news item is false because it is"
+1185	says romney supported law could made common forms birth control illegal	false	false	"answer:
+
+false
+
+reasoning:
+
+the article is false, because it states that ""the ad also claims that gardner's bill would make most common forms of birth control illegal"". however, gardner's bill does not make any forms of birth control illegal.
+
+the article also states that ""the bill could lead to that though it would again take court cases to determine the impact"". however, the bill does not make any forms of birth control illegal.
+
+the article"
+1307	medicare current retirees hes cutting 716 billion program	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the article states that the romney campaign is using the $716 billion medicare cuts as part of its campaign strategy. this is true. however, the article also states that the romney campaign is using this figure out of context, and that it is not accurate.
+
+the romney campaign is using the $716 billion medicare cuts as part of its campaign strategy, but it"
+504	obama says hes put forward specific 4 trillion deficit reduction plan	true	true	"answer:
+
+answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+analysis:
+
+the news item is true.
+
+analysis:
+
+the news item is true.
+
+analysis:
+
+the news item is true.
+
+analysis:
+
+the news item is true.
+
+analysis:
+
+the news item is true.
+
+analysis:
+
+the news item is true.
+
+anal"
+2277	says barack obama put place board tell people ultimately treatments theyre going receive	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+
+
+
+"
+2123	says mitt romney wants add 2 trillion defense budget military hasnt asked	true	true	"answer:
+
+true"
+1883	since president obama took office unemployed women	true	false	"answer:
+
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+1697	says joe biden went china said sympathized wouldnt policy forced abortions sterilizations	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+reasoning:
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true"
+377	says obama administration watered sanctions iran delayed tried stop congress putting tough sanctions place	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the evidence is that the news item is false.
+
+solution:
+
+the news item is false.
+
+comment: i would have written this as a comment, but i can't.
+
+comment: @rossmillikan i'm not sure how to do that either. i'll just keep trying.
+
+comment: @rossmillikan i don't know"
+2183	says barack obama began presidency apology tour	false	false	"answer:
+
+the news item is false.
+"
+2880	says romney said ask pakistan permission take shot osama bin laden	true	false	"answer:
+
+the news item is false.
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+
+
+
+"
+861	latin americas economy almost big economy china	true	true	"answer:
+
+the news item is true.
+
+evidence:
+
+""this comes as us power in the americas is starting to erode.""
+
+""china doesn't appear as worried about the what were looking at is not simply an economic play.""
+
+comment: i got it wrong."
+299	says mitt romney wants add 2 trillion defense budget military hasnt asked	true	true	"answer:
+
+the news item is true.
+
+explanation:
+
+romney's plan is to increase defense spending to 4% of the nations gdp. he has not specified how much of that increase would be in the first year.
+
+romney's plan would increase defense spending by $2.1 trillion over 10 years. the $2.1 trillion increase is in addition to the $680 billion increase in"
+694	seven presidents barack obama republicans democrats tried expand health care americans	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is authentic as it is based on the transcripts of the speeches given by barack obama, deval patrick, julian castro, michelle obama, and first lady michelle obama.
+
+### note:
+
+this question is a modified version of a question asked on https://www.hackerrank.com/challenges/news-item-authenticity/problem."
+2687	republicans would give seniors medicare voucher limits whats covered costing seniors much 6400 year	true	false	"answer:
+
+false
+
+explanation:
+
+none of the claims made in the news item are true.
+
+the 6400 figure is derived from dubious study of an older ryan budget not the plan romney has outlined.
+
+also, even if we were talking about ryan's plan, americans would still have a traditional medicare option in place.
+
+the most recent version of ryan's plan which was cosponsored by dem"
+603	says budget plan would cut deficits 4 trillion	true	false	"answer:
+
+false
+"
+2345	says mitt romney 89 million americans could denied coverage preexisting condition	true	true	"answer:
+
+the news item is true.
+
+reason:
+
+the news item is true because mitt romney said that he would repeal obamacare, but he did not offer a solution for the 89 million americans who could be denied coverage if they have a pre-existing condition.
+
+the news item is true because mark pauly, a university of pennsylvania economist, said that the best way to avoid running into problems because of a pre-existing condition is"
+2621	seven times obama could stopped chinas cheating seven times refused	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because it is a political advertisement, which is not news.
+"
+455	redistribution never characteristic america	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the article quotes mitt romney saying ""i know there are some who believe that if you simply take from some and give to others then we'll all be better off. it's known as redistribution. it's never been a characteristic of america really, aside from hardcore libertarians who view the sanctity of justly begotten private property as the overarching social value"
+161	barack hussein obama force christian organizations pay abortions	false	false	"answer:
+
+this is a false news item.
+
+reasons:
+
+1. the news item contains a number of untrue statements, and is a collection of lies.
+
+2. the news item contains many falsehoods.
+
+3. the news item contains a number of untruths.
+
+4. the news item is a collection of falsehoods.
+
+5. the news item contains many falsehoods.
+
+6. the news item is a"
+1418	last four years deficit gone 90 percent consequence president george w bushs policies recession	false	false	"answer:
+
+false
+
+"
+89	says illinois democrat david gill would end medicare	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the nrcc ad is false.
+
+the dccc ad is true.
+"
+3454	says president barack obamas health care law insurance premiums could go 200 percent cost much new explorer	false	false	"answer:
+
+false
+
+explanation:
+
+it is false.
+
+the news item is about the house gop plan to repeal and replace obamacare. the article does not mention any specific premium or cost increase.
+
+there are no statistics or information on how many people would actually see their premiums increase by 200% or how many people would see their premiums go up by 200% or even how many people would have to pay the"
+2951	wide majority nra households supported legislation gun background checks	true	false	"answer:
+
+false
+
+reason:
+
+the article is written in a very biased tone, the tone used by the author is not one of a neutral journalist. the author has made many unfounded statements, such as: ""the point is those who care deeply about preventing more and more gun violence will have to be as passionate and as organized and as vocal as those who blocked this legislation."" this statement is untrue, the author is not giving any evidence to support his claim."
+2703	proposed immigration legislation would give new immigrants cellular phone	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false."
+2109	president obama unnecessarily delaying flight faa could cut spending	false	true	"answer:
+
+true
+"
+3142	year best jobs growth since 1999	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+reasoning:
+
+the news item is true because it contains the following facts:
+
+-the economy is adding jobs at a rate of about 2 percent per year
+-the economy has added 265 million jobs in 2015, the second best year of jobs growth since 1999
+-the unemployment rate has dropped to 5 percent, the"
+1810	obamacare provision allow inspections government agents	false	false	"answer:
+
+the news item is false.
+
+the website claims that the affordable care act (aca) will allow the federal government to make forced home inspections of any family.
+
+the website cites a report from the freedom outpost which claims that the aca will allow government agents to engage in home health visits for families where mom is not yet 21, families where someone is a tobacco user, families where children have low student achievement,"
+3487	four countries world legalize abortion five months china north korea canada us	true	false	"answer:
+
+the news item is false.
+
+here is the link to the source:
+https://www.politifact.com/punditfact/statements/2014/aug/12/carly-fiorina/are-there-only-four-countries-world-where-abortio/
+
+
+"
+2649	new york safest big city nation crime reductions steeper big citys	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the news item is not true.
+
+the"
+333	bishops united states believe 1919 came affordable comprehensive universal health care	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true because the bishops of the united states believe that health care insurance should be affordable, comprehensive, and universal. they have been advocating for this since 1919.
+
+comment: please add some explanation for the downvotes.
+
+comment: i'm not sure, but it's probably because of the ""you think"" in the answer.
+
+comment: i'"
+897	latest quinnipiac poll found nearly americans oppose obamacare 30 support law 57 oppose	true	false	"answer:
+
+the news item is false.
+"
+436	exception slavery chinese exclusion act laws never barred persons becoming citizens	true	false	"answer:
+
+false
+"
+163	says overwhelming majorities americans support gun legislation like background checks	true	true	"answer:
+
+answer: true
+
+explanation:
+
+this news item is true.
+
+the news item is true.
+
+it is not a hoax.
+
+the news item is not a hoax.
+
+it is not a rumor.
+
+the news item is not a rumor.
+
+it is not a fabrication.
+
+the news item is not a fabrication.
+
+it is not a forgery.
+
+the news item is"
+1509	already affordable care act helping slow growth health care costs	true	false	"answer:
+
+this is a false statement.
+
+reason:
+
+the news item is about the affordable care act (aca) and its effect on the growth of health care costs.
+
+the article cites the congressional budget office (cbo) and the journal of the american medical association (jama) to support its claims.
+
+the cbo report, which was released in june 2015, found that the aca had not significantly"
+2203	12 hottest years record come last 15 years	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the claim:
+
+\begin{blockquote}
+
+12 hottest years record come last 15 years
+\end{blockquote}
+
+this is not true. the hottest year on record was 2016, which is not included in the 12 hottest years. the hottest year on record was 2016, which is not"
+1143	says hurricane sandy new york mayor michael bloomberg refused allow national guard city restore civil order guardsmen carry guns	false	true	"answer:
+
+this news item is true.
+
+reason:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+"
+1774	today 40 percent guns purchased without background check	true	false	"answer:
+
+false
+
+explanation:
+
+news content: today 40 percent guns purchased without background check
+
+evidences: a moment because of the lack of the ability of federal agencies to be able to even keep records we can t say with absolute certainty what i m about to say is correct but the consensus is about 40 percent of the people who buy guns today do so outside the nics national instant criminal background check system outside the background check system vice president"
+2802	research shows vast majority arriving immigrants today come believe government source prosperity thats support	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+
+"
+414	1999 nra leadership washington pretty much people intact expanded background checks	true	false	"answer:
+
+this news item is false.
+
+explanation:
+
+the news item is false because the nra does not support expanded background checks.
+
+reference:
+
+https://www.nraila.org/articles/20150707/nra-statement-on-senate-democrat-proposal-to-expand-background-checks
+
+https://www.nraila.org/articles/2013"
+104	south florida weve nine inches sealevel rise since 1920s	true	true	"answer:
+
+true"
+1048	us department homeland security told banks writing may inspect safe deposit boxes without warrant seize gold silver guns valuables finds inside boxes	false	false	"answer:
+
+the news item is false.
+
+the news item is true.
+"
+338	banned talking bill ayers 2008 presidential campaign	false	false	"answer:
+
+false
+"
+1750	says arkansas republican rep tom cotton voted provide congress health care life	false	false	"answer:
+
+false"
+607	literally teachers getting pink slips sequestration	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+references:
+
+https://www.washingtonpost.com/blogs/fact-checker/post/arne-duncan-caught-lying-about-sequester-pink-slips/2013/02/28/51412620-7d17-11e2-b55a-"
+507	presidents spokesman asked anwar son said chosen responsible father	true	false	"answer:
+
+false
+"
+501	64 percent earners women	true	true	"answer:
+
+the news item is true.
+"
+3116	every three dollars food stamps needy seven dollars salaries pensions go bureaucrats supposed taking care poor	false	false	"answer:
+
+the given news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+1362	air force wants taxpayers fund fantasy football league	false	false	"answer:
+
+false
+
+explanation:
+
+the article is about a fantasy football league, not a real football league.
+
+reference:
+
+https://www.defenseone.com/business/2012/08/air-force-wants-taxpayers-fund-fantasy-football-league/58623/"
+505	go back 1999 wayne lapierre testified behalf nra background checks appropriate done	true	false	"answer:
+
+false
+
+explanation:
+
+the statement ""if you go back to 1999 wayne lapierre testified on behalf of the nra that background checks were appropriate and should be done"" is a misleading statement.
+
+the nra did support background checks in 1999, but only for private sales. the nra's position has always been that background checks should be done for all sales.
+
+the nra has been consistent"
+3148	last several months review board headed two distinguished americans mike mullen tom pickering investigated every element benghazi incident	false	false	"answer:
+
+false
+
+explanation:
+
+the claim is false. the board did not look at every element of the incident.
+
+
+
+"
+666	says since took office no largescale attacks united states	true	true	"answer:
+
+true"
+1944	says word page 107 health care law means muslims specifically exempted government mandate purchase insurance	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. there is no such provision in the health care law.
+"
+205	bill advance keystone xl pipeline earmark house rules	false	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the bill will not be sent to the president for approval.
+
+the bill will not be sent to the president for approval.
+
+the bill will not be sent to the president for approval.
+
+the bill will not be sent to the president for approval.
+
+the bill will not be sent to the president for approval.
+
+the bill will not be sent to the president for appro"
+1887	says kay hagan supports waivers friends obama special treatment congress staffs	false	false	"answer:
+
+false
+"
+1891	says senate minority leader mitch mcconnell blocked senate 400 times	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because the ad used the word ""blocked"" in a misleading way.
+
+the ad did not say that mcconnell ""blocked"" the senate 400 times.
+
+the ad said that mcconnell ""used the filibuster"" 413 times as minority leader.
+
+the ad also took an old mcconnell quote out of context.
+"
+2134	history united states 168 presidential nominees filibustered 82 blocked president obama 86 blocked presidents	true	true	"answer:
+
+true
+
+explanation:
+
+true
+
+
+
+
+
+
+
+
+"
+1206	texas republicans believe abolishing social security abolishing va health care	false	false	"answer:
+
+false
+"
+830	says sen mark pryor voted special subsidies lawmakers staff congress theyre protected obamacare	false	false	"answer:
+
+false"
+3204	47 percent people state maine dont work	false	true	"answer:
+
+true
+
+explanation:
+
+in the news article, the governor of maine paul lepage said that about 47% of maine residents don't work. the governor is referring to the percentage of people in maine who receive government assistance.
+
+according to the maine department of labor, the percentage of people in maine who are not working is 6.3%. the percentage of people in maine who receive government assistance is 20.8%.
+
+the governor"
+1153	vast majority people country keeping health insurance plan	true	false	"answer:
+
+false
+
+explanation:
+
+""the vast majority of people in this country have health insurance through work or a public plan such as medicare and medicaid and that was already the case prior to 2014 when the individual mandate took effect.""
+
+""the mandate therefore targets the portion of americans who did not have health insurance prior to 2014 and those who have are too old to stay their parents plans.""
+
+""n"
+2972	says mike enzi getting 84 percent campaign funds pacs thats senator either party	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is"
+185	chemical weapons used probably 20 times since persian gulf war	false	false	"answer:
+
+false
+"
+452	employer mandate affects 5 percent businesses country	true	false	"answer:
+
+false
+
+explanation:
+
+the article is talking about 96% of the businesses in the us with less than 50 employees offer health insurance to their employees.
+
+the article is talking about 10,000 businesses with less than 50 employees will be subject to the employer mandate.
+
+the article is talking about 10,000 businesses with less than 50 employees will have to provide"
+506	government shuts military personnel continue serve accrue pay not actually paid appropriations available	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the military will continue to serve, but will not get paid until the government appropriations are available.
+
+comment: i'm not sure how to get the accepted answer to show up in the answer list.
+
+comment: @mari-loua if you have the required reputation (15) you can upvote the answer."
+1690	koch brothers group going college campuses giving away free booze try bribe young folks getting health insurance	true	true	"answer:
+
+true
+
+reason:
+
+the email is from jim messina, obama's campaign manager, and it is authentic.
+
+comment: this answer could be improved by adding some context.
+
+comment: @mooingduck thanks for the suggestion, i've added some context to the answer."
+1478	says bruce braley took tens thousands friends health insurance industry gave special favors voting obamacare	false	false	"answer:
+
+false
+
+explanation:
+
+the ad claims that braley took tens of thousands from his friends in the health insurance industry and gave them special favors by voting for the affordable care act. fact checkers determined that braley has received from health insurance 2000 for every year he s served in congress and total insurance donations account for less than 1 percent of all the
+freedom partners a group that has served as a hub for fund"
+3118	says koch brothers want protect tax cuts companies ship jobs overseas	false	true	"answer:
+
+true
+"
+3160	americans spend 61 billion hours year tax preparation	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+[ref](https://www.quora.com/are-americans-spending-61-billion-hours-a-year-preparing-their-taxes/answer/amit-gujral)
+
+### 11. which of the following is true about the tax system in the united states?
+
+the tax system in the"
+1114	says opposing paycheck fairness act part koch brothers agenda	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the paycheck fairness act was passed in 2009.
+
+in 2014, the farm bill was passed, but it didn't reauthorize federal farm and nutrition assistance programs through fiscal year 2018.
+
+the paycheck fairness act wasn't opposed by the koch brothers.
+
+the paycheck fairness act was supported"
+817	obama proposed 442 tax hikes since taking office	false	false	"answer:
+
+false
+
+explanation:
+
+this news item is false.
+
+the news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news item is not true.
+
+this news"
+3358	says cory gardner championed crusade outlaw birth control colorado	true	true	"answer:
+
+true
+
+reasoning:
+
+news content: says cory gardner championed crusade outlaw birth control colorado
+
+evidences: the ballot measure without the context those voters may well be led to think that gardner s position was that he wanted to completely ban birth control udall has been highlighting the issue for months dating back to april when an ad from the democratic lawmaker said gardner championed an crusade to out"
+7	says us senate candidate joni ernst not support national minimum wage	true	true	"answer:
+
+true
+
+explanation:
+
+1. the news item is a true statement.
+
+2. the news item has at least 2 evidence to support it.
+
+3. the evidence supports the statement.
+
+4. the news item is a true statement.
+
+5. the news item has at least 2 evidence to support it.
+
+6. the evidence supports the statement.
+
+7. the news item is a true statement.
+
+8"
+1016	says us senate candidate cory gardner blocked immigration reform voted deport dreamers	false	false	"answer:
+
+false
+"
+1779	havent really proposed phasing aid israel past	false	true	"answer:
+
+true
+"
+3407	says mitch mcconnell voted two times violence women act	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the ad is a satire, but it is true that mcconnell voted against the violence against women act twice.
+"
+1441	united states allies lined air strikes syria obama pulled rug	true	false	"answer:
+
+\begin{blockquote}
+
+false
+\end{blockquote}
+
+comment: i agree.  the news item is false."
+2895	nobody suffered lasting injuries cia interrogation program	false	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because the news item does not mention the procedures that were used to cause the tremendous discomfort. the news item does not mention the torture methods used.
+"
+510	since united states began negotiations iran thats probably first year half iran not advanced nuclear program last decade	true	false	"answer:
+
+false
+
+comment: welcome to the site. please don't post only code as an answer, but include an explanation what your code does and how it solves the problem of the question."
+922	americans work way average industrialized countries around world	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the following is the excerpt from the news item:
+
+\begin{blockquote}
+
+""americans work way average industrialized countries around world""
+\end{blockquote}
+
+this is true.
+
+the following is the excerpt from the news item:
+
+\begin{blockquote}
+
+""kathy washburn 59 of mount vernon i"
+368	north carolina republican senate candidate thom tillis would let insurance companies deny coverage preexisting conditions	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item is about the u.s. senate race in north carolina.
+
+the ad is sponsored by the democratic senatorial campaign committee.
+
+the ad says that thom tillis, the republican nominee for u.s. senate in north carolina, would let insurance companies deny coverage for preexisting conditions.
+
+the ad also says that tillis supports a plan that"
+790	economy louisiana grown 50 percent faster national gdp even since national recession	true	true	"answer:
+
+true
+"
+1783	obamacare medical codes confirm execution beheading implemented america	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the first part of the news item, about the execution of a prisoner by guillotine, is true. however, the second part of the news item, about the medical code for execution by guillotine, is false.
+
+the medical code is not related to the execution of prisoners by guillotine. it is simply a code for execution by any method.
+
+the news item"
+1346	many studies indicate longer people get unemployment insurance provides disincentive work	true	false	"answer:
+
+false
+
+reasoning:
+
+1. the news item is a generalization.
+2. the news item is not supported by evidence.
+
+
+"
+669	unemployment insurance kept children poverty 2012	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the 2012 census report shows that 17 million people workers and their family members above the poverty line in 2012. this is fewer than in 2011 and 15 million fewer than in 2010.
+"
+1022	past three years state legislatures enacted restrictions abortion previous 10 years combined	true	true	"answer:
+
+this is true.
+
+the source is the following:
+
+https://www.npr.org/sections/health-shots/2017/07/20/538584196/abortion-restrictions-are-on-the-rise-but-abortion-clinics-are-closing
+
+[options]:
+
+true
+false
+
+answer: true
+
+"
+291	first time decade business leaders around world declared china no longer worlds no 1 place invest america	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the article contains the following statements:
+
+* more oil produced at home than we buy from the rest of the world the first time thats happened in nearly twenty years our deficits cut by more than half and for the first time in over a decade business leaders around the world have declared that china is no longer the world s number one place to invest america is
+* we see that reducing the"
+2035	us supreme court five guys start determining legal	false	true	"answer:
+
+this is a true news item.
+
+"
+2270	weve recovered recession faster come farther almost advanced country earth	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item claims that president obama said:
+
+weve recovered faster and come farther than almost any other advanced country on earth.
+
+however, this is false. the news item claims that president obama said that we have recovered faster and come farther than almost any other advanced country on earth. this is not true.
+
+the evidence that the news item provides is a video of president obama"
+3460	state new york worst nation economic recovery	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false because the headline is misleading. the news item is about the economic recovery of new york state, not the economic recovery of the united states as a whole. the news item does not mention any statistics or data that support the claim that new york state is the worst in economic recovery.
+
+the news item is also false because it does not provide any evidence to support the claim that"
+2707	says rep bruce braley skipped important va reform hearing attend three fundraisers	false	true	"answer:
+
+true
+"
+3219	says rep bruce braley missed 79 percent veterans affairs committee hearings	true	false	"answer:
+
+answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the committee meetings that were attended were not full committee meetings.
+
+the committee that was attended was the veterans affairs subcommittee.
+
+the attendance percentage for the veterans affairs subcommittee was 100%.
+
+the attendance percentage for the full committee was 60%.
+
+the attendance percentage for the veterans affairs subcommittee"
+794	says barack obama broke policy not negotiating terrorists	false	false	"answer:
+
+false
+"
+648	says hillary clinton laid groundwork getting chemical weapons syria	false	false	"answer:
+
+false
+
+reason:
+
+the claim that hillary clinton laid the groundwork for the syrian chemical weapons deal we've got the chemical weapons, we're getting the chemical weapons out of syria. she, hillary rodham clinton laid the groundwork for that. sen. claire mccaskill, d-mo., appearing on fox news sunday touting the achievements of former secretary of state hillary rodham clinton. june 1, "
+182	iran 1979 extremists hijacked broadbased popular revolution shah established brutal theocracy	true	false	"answer:
+
+false
+"
+1299	united states developed country world without paid maternity leave	true	false	"answer:
+
+false
+
+explanation:
+
+the united states is not the only developed country without paid maternity leave.
+
+references:
+
+https://www.reuters.com/article/us-health-maternity-leave/united-states-is-only-industrialized-nation-without-paid-maternity-leave-iduskcn1h9115
+
+https://www."
+1339	crimea part russia 1954 given soviet republic ukraine	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is not true."
+435	young americans right theyre not covered health insurance	false	true	"answer:
+
+true
+"
+79	women take birth control half medication conditions	true	true	"answer:
+
+true
+"
+1756	george w bush period 13 attacks various embassies consulates around world sixty people died	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+comment: welcome to skeptics! this is a good first answer, but please [edit] in some explanation of why the news item is false. see [answer].
+
+comment: i've edited it to include an explanation."
+1754	no republicans voted recent hikes income tax payroll tax capital gains tax dividend tax estate tax taxes passed obamacare	false	false	"answer:
+
+\begin{code}
+false
+\end{code}
+
+reason:
+
+\begin{code}
+income tax payroll tax capital gains tax dividend tax estate tax taxes passed obamacare
+\end{code}
+
+this sentence is not a news item.
+
+comment: you're right. but i was trying to answer the question, ""analyze the given news item to determine its authenticity and give your choice:"
+588	every one job created obama administration 75 people went food stamps	false	false	"answer:
+
+this news item is false.
+"
+2878	solar panels drain suns energy	false	false	"answer:
+
+false
+"
+2545	position hasnt changed using executive authority address immigration issues	false	true	"answer:
+
+this is a true statement.
+
+the news item is true because the president has repeatedly said that he cannot take executive action to change immigration laws because he does not have the authority to do so.
+
+the president has also said that he is considering taking executive action to change immigration laws because he does not have the authority to do so.
+
+the president's position has not changed.
+
+the news item is false because the president has repeatedly said that he cannot take executive"
+199	2014 elections american people overwhelmingly said dont want obamacare dont want amnesty	false	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+"
+2234	sign dearborn mich advancement islamic agenda america says allah praised america kill nothing stop	false	false	"answer:
+
+false
+"
+3007	recently opportunity vote give president limited authority begin strikes terrorists iraq syria	false	false	"answer:
+
+false
+"
+715	says bruce braley threatened sue neighbor chickens came onto property	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+
+
+
+"
+1524	says sen kay hagan missed half senate armed services committees hearings 2014	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item"
+3354	2014 federal tax refunds delayed october 2015	false	false	"answer:
+
+false
+
+reason:
+
+false
+
+
+
+"
+1719	ebola incredibly contagious transmissible easy catch	false	false	"answer:
+
+false
+
+explanation:
+
+analyze the given news item to determine its authenticity and give your choice:
+
+news content: ebola incredibly contagious transmissible easy catch
+
+evidences: reach its shores we were told there would never be a case of ebola in the united states he said on oct 12 a claim refuted by public statements from administration and cdc officials as far as sen rand paul s"
+1411	not get ebola riding plane bus	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the cdc now admits you can get ebola on a plane or bus.
+
+cdc website
+
+[1]: http://www.cdc.gov/vhf/ebola/transmission/index.html
+
+[2]: http://www.cdc.gov/vhf/ebola/transmission/index.html
+
+[3]: http"
+2172	73 donations raised als ice bucket challenge going fundraising overhead executive salaries external donations	false	false	"answer:
+
+false
+"
+2958	says comment extremists jv team wasnt specifically referring islamic state	false	false	"answer:
+
+the news item is false.
+
+```
+ 1. obama specifically said more than 20 times that he didn't have the authority to change immigration laws or offer amnesty to illegal immigrants before going ahead and changing immigration laws and offering amnesty to illegal immigrants.
+ 2. obama's comment about extremists being a jv team wasn't specifically referring to the islamic state group.
+ 3. obama"
+2600	says nick rahall voted obama 94 percent time	true	false	"answer:
+
+false
+
+explanation:
+
+this is a false news item. the news item is about a congressional candidate's voting record and the percentage of time he voted with the president. the news item states that he voted with the president 94% of the time in 2009, but the percentage dropped every year since then. the news item also states that he voted with the president 58% of the time in 2013.
+"
+2306	obama hijacked farm bill turned food stamp bill	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the farm bill has included food stamp provisions for decades.
+
+the ad says that food stamp provisions were added to the farm bill by president obama.
+
+this is false.
+
+the ad also says that president obama turned the farm bill into a food stamp bill.
+
+this is also false.
+
+the ad says that food stamp provisions were added to the farm bill"
+3310	begich cast deciding vote favor president obamas authority issue executive amnesty illegal aliens	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+[reference]:
+
+https://www.washingtonpost.com/news/the-fix/wp/2015/02/25/mark-begich-on-immigration-democratic-senator-says-he-never-voted-on-executive-amnesty/
+"
+3149	president barack obama income levels unemployment numbers worse ever	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the text ""we wondered whether trump was right that under obama income levels and unemployment numbers are worse now than just about ever for african americans"" is not in the source."
+2258	majority candidates stage supported amnesty never supported amnesty	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. ted cruz has never supported amnesty.
+
+"
+2876	one reasons social security much trouble funding stream comes people get wage people get wages declining dramatically	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the statement ""most of the income in this country is made by people at the top who get dividends and capital gains"" is false. the top 1% of earners in the u.s. account for 18% of the income. the top 10% of earners in the u.s. account for 39% of the income. the top 20%"
+1254	youre likely get struck lightning texas voter fraud	true	true	"answer:
+
+true
+
+explanation:
+
+the statement is true.
+
+references:
+
+[1]: https://www.politifact.com/texas/statements/2015/aug/19/cory-booker/youre-more-likely-get-struck-lightning-texas-th/
+[2]: https://www.washingtonpost.com/news/the-fix/wp/201"
+2914	not asked emails made public none would public arena	false	false	"answer:
+
+false"
+645	highly taxed nation world	false	true	"answer:
+
+the news item is true.
+
+"
+3051	states always defined marriage	true	false	"answer:
+
+false
+
+reasoning:
+
+the article does not say that states always defined marriage.
+
+it says that states have always defined marriage, which is different.
+
+in the us, marriage is a state issue.
+
+the article is incorrect.
+
+"
+823	practically not allowed use coal coal ship china spew air	false	false	"answer:
+
+false
+"
+3389	going kill families terrorists realize theres something called geneva convention going pull	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+[reasoning]:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is"
+1755	larger domestic threat racial supremacist groups	false	false	"answer:
+
+the news item is false.
+
+here are the reasons:
+
+1. the news item is about the congressman andre carson.
+
+2. the news item says that the congressman andre carson says that white supremacists are a bigger threat than islamic terrorists.
+
+3. the news item says that the congressman andre carson says that the white supremacists are more concerned about the white supremacists than the islamic terrorists.
+
+"
+869	didnt go take information hillary clinton campaign	false	true	"answer:
+
+true
+
+explanation:
+
+
+
+"
+389	no 1 cause childhood deaths preventable accidents	true	true	"answer:
+
+true
+
+reason:
+
+news content: no 1 cause childhood deaths preventable accidents
+
+evidences: resources watch our ads for news media inquiries 614 for current customers call nationwide customer advocacy email us nationwide launches make safe happen to reduce no 1 cause of death among children january 23 2015 columbus ohio survey identifies gap in issue awareness only 28"
+1191	92 million americans arent working	false	false	"answer:
+
+the news item is false.
+
+reason:
+
+the article is based on the news item of 92 million americans arent working.
+
+the article is a fake news item.
+
+the article is based on the news item of 92 million americans arent working.
+
+the article is a fake news item.
+
+
+
+
+
+
+
+"
+1326	no 1 producer oil world weve surpassed saudi arabia	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the united states has not surpassed saudi arabia as the world's largest producer of oil.
+
+
+"
+2713	newly elected republican senators sign pledge eliminate food stamp program 2015	false	true	"answer:
+
+true"
+2162	half people disability either anxious back hurts	false	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+1073	since 2010 america put people back work europe japan advanced economies combined	true	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+
+
+"
+2923	obamacare caused millions fulltime jobs become parttime	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item claims that obamacare has caused millions of fulltime jobs to become parttime.
+
+however, the news item does not provide any evidence to support this claim.
+
+there is no evidence to suggest that obamacare has caused millions of fulltime jobs to become parttime.
+
+the news item is false.
+
+answer:
+
+false
+
+reason:
+"
+485	super bowl one highest levels human sex trafficking activity event country	false	false	"answer:
+
+false
+
+reasoning:
+
+this news item is false.
+
+it is true that the super bowl is a popular event, but there is no evidence to suggest that it has the highest levels of human sex trafficking activity.
+
+in fact, several news outlets have debunked this claim, including snopes, politifact, and the huffington post.
+
+the article cites a study by a religious nonprofit based in the w"
+1135	highest rate childhood poverty major country earth	false	false	"answer:
+
+false
+
+reason:
+
+news content: highest rate childhood poverty major country earth
+
+evidences: by barely raising a family on 30000 in rural kansas try doing that in any of the nations pricey urban and suburban areas where many of americas poor actually live for the richest country in the world to also have one of the worlds highest childhood poverty rates is frankly an embarrassment like our high infant"
+1093	theres three independent investigations bridge scandal said christie not prior knowledge involvement lane closures	true	true	"answer:
+
+true
+"
+2251	5 billion website obamacare never worked still doesnt work	false	false	"answer:
+
+false
+
+comment: please explain your answer."
+3369	new orleans percent kids charter schools	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+new orleans, louisiana is not the first city in the united states to have nearly 100% of its public schools run by charter schools.
+
+new orleans, louisiana is not the first city in the united states to have nearly 100% of its public schools run by charter schools.
+
+new orleans, louisiana is not the first city"
+2087	thanks obama administrations negotiations irans nuclear program lock key camera 24 hours day 365 days year	true	true	"answer:
+
+true
+
+comment: your answer is not very helpful. please try to explain the reasoning.
+
+comment: welcome to skeptics! we are not a discussion forum. please [edit] your answer to explain why this is a true or false statement.
+
+comment: @joncuster i have edited my answer.
+
+comment: @sachinshekhar - thanks."
+2635	says john mccain done nothing help vets	false	true	"answer:
+
+true
+
+
+"
+574	ceo goldman sachs let employees know hed fine either bush clinton	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the former maryland governor was speaking at a campaign rally and not an event at goldman sachs.
+
+he did not say that he would be fine with either bush or clinton.
+
+he did not say that the presidency was not a crown to be passed back and forth by you between two royal families.
+
+he did not say that he had news for the bullies of wall street"
+2117	says ronald reagan talked converting united states metric system	true	false	"answer:
+
+false
+"
+1246	gap rich everyone else america wider today time since 1920s	true	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+"
+441	least hate crimes given year	true	false	"answer:
+
+false
+"
+1654	major country earth doesnt guarantee health care people right	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+"
+2722	lot people go prison straight come theyre gay	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+ben carson was not asked to comment on whether prison makes people gay.
+
+ben carson was not asked to comment on whether prison makes people gay.
+
+ben carson was not asked to comment on whether prison makes people gay.
+
+ben carson was not asked to comment on whether prison makes people gay.
+
+ben carson was not asked to comment on whether prison makes people gay."
+2091	labor participation rate alltime low	false	true	"answer:
+
+true
+"
+3465	vast majority international commitments take effect without congressional approval	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the letter was written by a bipartisan group of 47 senators, who wrote to iran's leaders that any agreement signed with the obama administration could be overturned with the stroke of a pen by the president's successor.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true."
+835	many alarmists global warming got problem science doesnt back particular satellite data demonstrate last 17 years theres zero warming	false	false	"answer:
+
+false
+
+comment: welcome to the site! you can improve this answer by providing the source of the news item."
+2363	richest 14 americans increased net wealth 157 billion yet republican budget would not require americans contribute one penny deficit reduction	true	true	"answer:
+
+true
+
+
+"
+1978	not single republican candidate announced potential clearly consistently supporting path citizenship not one	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is not authentic.
+
+"
+43	doubled size company	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. hp is not one of the largest technology companies in the world.
+
+the company's website states that it is ""one of the world's leading personal computing and printer companies"".
+
+hp is a company that manufactures computers and printers, not a technology company.
+
+the news item also states that hp has a wide range of product offerings including printing, personal computing, software, services"
+3243	proposed fasttrack legislation allows presidents easily use future trade deal override domestic financial rules	true	false	"answer:
+
+the news item is false.
+
+comment: i think this is a good question and i think it should be reopened. it's not a duplicate of the other question, because the other question is about the validity of the source, not about the validity of the news item itself.
+
+comment: i think it's a duplicate of [this one](http://meta.skeptics.stackexchange.com/questions/1995/how-to"
+293	every president since franklin delano roosevelt fasttrack trade authority	true	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+the text of the news item states that every president since franklin delano roosevelt has had the authority to negotiate trade deals and send them to capitol hill for an up or down vote.
+
+the news item also states that the last fast-track law expired in 2007 and the latest measure introduced in january by a trio of lawm"
+447	state department half year respond benghazi document request yet not gotten single solitary scrap paper	false	false	"answer:
+
+the news item is false.
+
+evidence:
+
+the news item is false.
+
+reasoning:
+
+the news item is false.
+
+comment: welcome to skeptics! please include the reasoning for your answer in the answer itself. thanks."
+2613	supreme court cant overrule two government	false	false	"answer:
+
+false"
+125	says plan would cut taxes without increasing deficit	false	false	"answer:
+
+the news item is false.
+
+"
+399	says hillary clinton told daughter government official benghazi terrorist attack tells everybody else video	false	false	"answer:
+
+false
+
+explanation:
+
+the article is a news item that is false.
+
+the evidence is that the article is a news item and that the news item is false.
+
+the news item is false because the article is a news item and the news item is false.
+
+the news item is false because the news item is false.
+
+the news item is false because the news item is false.
+
+the news item is false because the news item is"
+2487	united states largest provider humanitarian assistance displaced persons refugees	true	true	"answer:
+
+the news item is true.
+
+reason:
+
+the news item is a summary of a report by the united states bureau of population, refugees and migration.
+
+the report can be found [here](http://www.state.gov/r/pa/prs/ps/2007/nov/96190.htm).
+
+the report can be found [here](https://www.state.gov/j/pr"
+3299	says david vitter answered prostitutes call minutes skipped vote honoring 28 soldiers gave lives defense freedom	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+[source]:
+
+https://www.washingtonpost.com/news/the-fix/wp/2015/10/13/a-new-ad-accuses-sen-david-vitter-of-choosing-prostitutes-over-patriots/
+
+"
+2426	planned parenthood organization funnels millions dollars political contributions candidates	true	false	"answer:
+
+the news item is false.
+
+the news item is false because planned parenthood does not ""funnel millions of dollars in political contributions to candidates."" in fact, planned parenthood action fund, inc. (ppafi) does not make political contributions to candidates. ppafi is a separate entity from planned parenthood federation of america (ppfa) and is not affiliated with ppfa in any way. ppfa is a nonprofit organization that provides"
+3162	number americans killed terrorism last decade 24 number americans killed guns last decade	true	false	"answer:
+
+false
+
+reason:
+
+the number of people killed by terrorism in the last decade is 24. the number of people killed by guns in the last decade is 368.
+
+\begin{code}
+import re
+
+def main():
+    with open('input.txt') as f:
+        content = f.read()
+
+    pattern = r'^([\d]+) ([a-z]+) killed (["
+1788	seven investigations benghazi led mostly republicans congress concluded nobody anything wrong changes could make	true	false	"answer:
+
+false
+"
+2585	youth unemployment 51 percent hispanic youth unemployment 36 percent	true	false	"answer:
+
+false
+
+reason:
+
+https://www.washingtonpost.com/news/fact-checker/wp/2015/07/22/bernie-sanders-overstates-youth-unemployment-rate-by-a-lot/
+
+comment: i am not sure if the link is accessible to everyone. i'll try to add the link in the answer.
+
+comment: thanks @suresh"
+1196	every major country family paid leave	true	false	"answer:
+
+false
+"
+1967	says edward snowden could gotten protections whistleblower	false	false	"answer:
+
+the news item is false.
+
+the news item is true.
+"
+2254	republican leadership took lead confirming loretta lynch attorney general	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the republican leadership did not take the lead in confirming loretta lynch as attorney general.
+
+reason:
+
+the republican leadership did not take the lead in confirming loretta lynch as attorney general.
+
+
+
+
+
+
+"
+3327	says john kerry first secretary state rely primarily government account	true	false	"answer:
+
+false
+
+reasoning:
+
+false because the state department says that john kerry is the first secretary of state to rely primarily on a government email account
+
+
+"
+2960	never said marco rubio mark personal senator	false	false	"answer:
+
+false
+"
+1149	theres never direct supreme court case people illegally whether not kids citizens	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news"
+1917	know current president muslim know hes not even american	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the claim that the current president of the united states is a muslim is a false statement.
+
+the claim that the current president of the united states is not an american is also false.
+
+the claim that there are muslim training camps in the united states is a false statement.
+
+the claim that the current president of the united states is a muslim is a false statement.
+
+the claim that"
+1011	birther movement started hillary clinton 2008	false	false	"answer:
+
+false
+
+explanation:
+
+the claim that hillary clinton started the birther movement is false.
+
+the birther movement was started by a group of far-right bloggers in 2007.
+
+in 2008, clinton's campaign did not spread the conspiracy theory, and clinton herself never trafficked in it.
+
+in fact, as we wrote in november 2008, ""there"
+3276	ronald reagan came 1978 1982 economic growth averaged less 1 percent year theres one period thats true thats true 2008 2012	false	true	"answer:
+
+true"
+1540	theres no money planned parenthood bill would keep government open	true	true	"answer:
+
+true
+
+explanation:
+
+there is no money planned parenthood bill would keep government open
+
+evidences:
+
+congress just reached a funding deal to keep the government open no wall no planned parenthood cuts it s a huge win for democrats congress struck a deal sunday night for a roughly 1 trillion spending bill to avert a government shutdown a measure that appears to be largely a victory for democrats and"
+742	unlike virtually every campaign dont super pac	true	true	"answer:
+
+true
+
+explanation:
+
+this news item is true.
+
+the first sentence of the news item is a quote from bernie sanders.
+
+the second sentence of the news item is a quote from deborah burger, the president of the national nurses united.
+
+the third sentence of the news item is a quote from bernie sanders.
+
+the fourth sentence of the news item is a quote from bernie sanders.
+
+"
+2651	unemployment rate may high 42 percent	false	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the news item is false. the unemployment rate in the united states is 4.1%, not 42%.
+
+
+### question 2:
+
+analyze the given news item to determine its authenticity and give your choice:
+
+news content: unemployment rate may high 42 percent
+
+evidences: months to october of 2017 un"
+930	many call lyin ted ad john kasich lie stations pull air	false	false	"answer:
+
+the news item is false.
+
+reasoning:
+
+the news item contains statements that are false, such as:
+
+-""many just call him lyin ted""
+
+-""lies about being the best for the gop when polls show he can t even beat hillary clinton""
+
+-""his tv ad about john kasich lie stations had to pull it off the air""
+
+-""if ted mouth is moving hes lying"""
+2587	says hillary clinton saying lately thinks not president	false	false	"answer:
+
+false
+
+reasoning:
+
+the article has been edited.
+
+the original article is:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+3425	poll poll poll shows beating hillary	false	true	"answer:
+
+news item: true
+"
+2567	says hillary clinton supported continues support fracking	true	false	"answer:
+
+false
+"
+1765	says bernie sanders largely reliable supporter nra	false	false	"answer:
+
+false
+
+reason:
+
+the article is a very good example of fake news.
+
+the article is written in a way to make it look like bernie sanders has been a reliable supporter of the nra.
+
+but it is not true.
+
+the article says that bernie sanders has been a reliable supporter of the nra.
+
+but the article does not mention that bernie sanders has been a reliable supporter of the nra"
+2794	city charlotte passed bathroom ordinance mandate every employer charlotte	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the city of charlotte passed a bathroom ordinance mandate on every employer in charlotte, north carolina, one of the largest 15th or 16th largest cities in the united states of america, and i think that's government overreach. it's not government's business to tell the private sector what their bathroom locker room or shower practices should be.
+"
+3366	says president barack obama no boots ground syria	false	false	"answer:
+
+false
+
+"
+3036	says hillary clinton promised raise taxes 1 trillion dollars	true	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+"
+1770	says hillary clintons plan would tax many small businesses almost 50 percent	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the given news item is about the tax cuts proposed by hillary clinton and donald trump.
+
+the news item says that hillary clinton's plan would tax many small businesses by almost 50 percent.
+
+the news item says that hillary clinton's plan would tax many small businesses by almost 50 percent.
+
+the news item says that hillary"
+1272	undocumented 12 billion year social security	true	true	"answer:
+
+true
+
+explanation:
+
+social security is a payroll tax that is taken out of every american worker's paycheck. undocumented immigrants pay into social security, and will be eligible to receive benefits in the future.
+
+link:
+
+https://www.vice.com/en_us/article/3k8577/undocumented-workers-pay-13-billion-a-year"
+661	says barack obama founded isis would say cofounder would crooked hillary clinton	false	true	"answer:
+
+true
+"
+2901	hillary clintons tax returns saw lot income coming donors clinton foundation people benefitted state department term well	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item"
+1365	says us election system rigged	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the article gives evidence to support its claims.
+
+"
+3088	legal prescription drugs statistically kill 100000 people year no documented deaths due marijuana	true	false	"answer:
+
+false
+"
+5	candidate ran either democratic republican primary said beginning not raise taxes middle class	false	false	"answer:
+
+the news item is false.
+
+hillary clinton did not run in the republican primary.
+
+answer:
+
+the news item is false.
+
+hillary clinton did not run in the republican primary.
+
+answer:
+
+the news item is false.
+
+hillary clinton did not run in the republican primary.
+
+answer:
+
+the news item is false.
+
+hillary clinton did not run in the republican"
+1929	says campaign platform includes biggest investment new jobs since world war ii	true	false	"answer:
+
+false
+
+explanation:
+
+this is a great example of how the media can be very misleading. the article starts off by saying that hillary clinton is promising a 10 million jobs plan, but then the article quickly switches to saying that the plan will be the biggest investment in new jobs since wwii. this is a very misleading statement, because it implies that the plan will create 10 million new jobs, which is not true."
+2038	says hillary clinton immigrants security benefits	false	false	"answer:
+
+false
+
+explanation:
+
+
+
+
+"
+3381	says hillary clinton wants raise taxes owned businesses much nearly 50 percent theyre paying	false	false	"answer:
+
+false
+
+reasoning:
+
+the news item is false.
+
+the evidence given is not sufficient to prove that the news item is true.
+
+the news item says that clinton wants to raise taxes on owned businesses to as much as nearly 50 percent more than theyre paying now.
+
+the evidence given is not sufficient to prove that this is true.
+
+the evidence given is a speech by donald trump.
+
+the evidence given is"
+3084	parents teachers already worrying call trump effect report bullying harassment rise schools especially targeting students color immigrants	true	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false."
+1443	china practicing blow satellites	true	false	"answer:
+
+false
+
+reason:
+
+satellites are in space, and there are no countries on earth that can blow up satellites.
+"
+619	regarding iraq war one said dont go dont youre going destabilize middle east	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the speaker was not against the iraq war.
+
+the speaker was not against the iraq war.
+
+the speaker was not against the iraq war.
+
+the speaker was not against the iraq war.
+
+the speaker was not against the iraq war.
+
+the speaker was not against the iraq war.
+
+the speaker was not against the iraq war.
+"
+625	right highest taxed country world	false	true	"answer:
+
+true"
+966	tell madeleine position war iraq wouldnt surprised supported	false	false	"answer:
+
+false
+"
+1403	says 6th hard dollars raised cash hand governors john kasich chris christie combined	true	false	"answer:
+
+the news item is false.
+
+reasoning:
+
+1. the news item is false because the statement that ""this campaign has the same number of delegates as governors bush and kasich while governor christie has zero"" is false.
+
+2. the news item is false because the statement that ""we are 6th in hard dollars raised and have twice the cash on hand as either governors christie or kasich"" is false.
+
+"
+3367	americans havent raise 15 years	true	false	"answer:
+
+false
+"
+590	says joseph stalin said want bring america undermine three things spiritual life patriotism morality	false	false	"answer:
+
+false
+
+explanation:
+
+
+
+
+
+
+
+
+
+
+
+"
+2553	theres never us supreme court vacancy last think 30 years lasting longer 237 days	true	false	"answer:
+
+false
+"
+2086	passed obamacare put bailout fund obamacare led effort wiped bailout fund	false	false	"answer:
+
+false
+
+explanation:
+
+the article is about a health care bailout, not an insurance bailout. the bailout fund is not a part of the health care law called risk corridors.
+
+comment: welcome to skeptics! please note that this is not a discussion forum; this is a q&a site, where the question is answered by providing an authoritative source. please do not add comments to the answer, and please"
+229	trump better business bureau	false	true	"answer:
+
+true
+
+explanation:
+
+better business bureau trump university had d rating in final year the better business bureau clarified questions about its rating of trump university on tuesday saying the school had a d score that eventually rose to a only after the university began to shut down and older complaints had expired republican presidential candidate donald trump faced criticism over the school s better business bureau rating at thursday s debate when moderator megyn"
+3029	everywhere citizens carrying guns crime less theres study showing states open carry concealed carry particularly open carry crime 25 percent	false	true	"answer:
+
+true"
+1708	cruz missing vast majority votes	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+"
+3374	held recent economic dialogues china agreed 100 different things including wildlife trafficking volcano research none points agreement addressed cybersecurity	false	false	"answer:
+
+false
+"
+2903	marco rubio voted authorizing president obama strike syria assad used chemical weapons people	true	false	"answer:
+
+false
+"
+1776	weve lifted high school graduation rates new highs	true	true	"answer:
+
+the news item is true.
+"
+2652	not insulted donald personally	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+references:
+
+https://www.theguardian.com/us-news/2017/sep/22/donald-trump-warned-not-personally-insult-kim-jong-un-in-un-speech
+
+https://www.cnn.com/2016/03/04/politics"
+2710	obamacare biggest country millions americans lost jobs forced parttime work	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+
+"
+1217	says hillary clinton literally present pressed reset button russia months russia invaded georgia	true	false	"answer:
+
+false
+
+explanation:
+
+cotton said and she has been responsible for many of the worst decisions of the obama administration she was literally present when we pressed the reset button with russia just a few months after russia had invaded georgia.
+
+cotton's talk about russia is an imperfect but not inaccurate retelling of history that claim rates mostly true. russia long has had a military presence in the semiautonomous georgian regions"
+665	taxpayers paying fortune use air force one campaign trail president barack obama hillary clinton	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is a satirical article which is based on a tweet posted by donald trump. the article has been written in a satirical tone and is intended to be humorous. it is not a news article and should not be taken as a serious source of information.
+
+reference:
+
+https://www.washingtonpost.com/news/the-fix/wp/2016/07/0"
+2490	mexican immigrants us citizens statistic	true	false	"answer:
+
+false
+
+explanation:
+
+i think it's false because i don't think that the us has more mexican immigrants than us citizens.
+
+comment: hi, and welcome to the site! please read [how to answer](https://stackoverflow.com/help/how-to-answer). your answer is incomplete, and i'm not sure how you reached your conclusion. please explain your answer with a little more detail, and consider editing your answer"
+2506	look fbi director said hillary clinton misconduct disgrace embarrassment country	false	false	"answer:
+
+the news item is false.
+
+the news item contains a series of false statements, in particular:
+
+- the news item claims that hillary clinton is ""extremely careless with classified information"" and that she ""deleted of them so the authorities can t see her crime"". this is false. there is no evidence that hillary clinton was ""extremely careless with classified information"" or that she deleted emails ""so the authorities can t see her"
+2570	says clinton called president assad reformer called assad different kind leader	true	false	"answer:
+
+false
+"
+2034	household incomes 4000 since year 2000	true	false	"answer:
+
+false
+
+explanation:
+
+the news item states that household income is down 4000 since 2000. this is false.
+
+the news item states that household income is down 4000 since 2000. this is false.
+
+the news item states that household income is down 4000 since 2000. this is false.
+
+the news item states that household income is down "
+2080	trade deficit goods reached nearly 800 billion last year alone	true	true	"answer:
+
+true
+
+explanation:
+
+analysis:
+
+news content: trade deficit goods reached nearly 800 billion last year alone
+
+evidences: on refugee resettlement barbara strack chief of the refugee affairs division of the us citizenship and immigration services said that syrian refugees tend to have many many documents trade deficit trump also used a bit of when he said our trade deficit in goods reached nearly think"
+3245	million americans food stamps	true	true	"answer:
+
+true
+
+explanation:
+
+the given news item is true.
+
+### 6. analyze the given news item to determine its authenticity and give your choice:
+
+news content: million americans food stamps
+
+evidences: speech offered by the latenight shows that had the courage and the sense of the most recent report released thursday hours before trumps speech shows median annual household income was in june down slightly from january "
+1977	says unlike tim kaine education indiana gov mike pence slashed education funding	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the claim that ""mike pence slashed education funding in indiana"" is false.
+
+the claim that ""mike pence slashed education funding in indiana"" is false.
+
+the claim that ""mike pence slashed education funding in indiana"" is false.
+
+the claim that ""mike pence slashed education funding in indiana"" is false.
+"
+1445	analysis showed bernie sanders would democratic nomination not super delegates	false	false	"answer:
+
+false
+
+reason:
+
+this is a satirical article, the title is a misleading clickbait.
+
+
+
+
+
+"
+2765	top 1 percent recent years earned 85 percent new income	true	false	"answer:
+
+false
+
+reasoning:
+
+sanders' claim is that the top 1% have earned 85% of all new income in recent years. this is false. in fact, according to the article, the top 1% earned 52% of all income growth in the last 20 years.
+"
+1581	fewer people crossing southwest border last 30 years	true	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true. the article cites several sources to support the claim."
+1370	speakers democratic national convention made zero mentions global terrorist threat posed isis	true	true	"answer:
+
+true
+
+explanation:
+
+the email was true, but the rnc did not quote the speeches at the democratic national convention. the email was referring to the speeches at the republican national convention.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+1610	secretary state hillary clinton worked hard get strong sanctions irans nuclear program got russia china support	true	true	"answer:
+
+the news item is true.
+
+reason:
+
+the news item is true because it was written by bill clinton.
+
+comment: your answer could be improved with additional supporting information. please [edit] to add further details, such as citations or documentation, so that others can confirm that your answer is correct. you can find more information on how to write good answers [in the help center](/help/how-to-answer)."
+325	ninety percent americans want background check system strengthened expanded cover gun sales	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+
+"
+1152	independent analysts found trumps tax plan given wealthy big corporations would rack 30 trillion debt	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+1507	says donald trump promised mass deportation latino families	true	true	"answer:
+
+\begin{code}
+true
+\end{code}
+
+reason:
+
+\begin{code}
+1. the article says: ""our ruling bass said trump has promised mass deportation of latino families""
+2. the article says: ""donald trump has called mexican immigrants rapists""
+3. the article says: ""he recently argued that judges of mexican descent are incapable of being impartial when pres"
+61	put lid irans nuclear program without firing single shot	true	true	"answer:
+
+true
+
+explanation:
+
+analysis:
+
+news content: put lid irans nuclear program without firing single shot
+
+evidences: in sum after the limits expire it would likely still take iran between several months and a year or so to have an actual deliverable nuclear weapon he said and to build an arsenal of nuclear weapons it would take several years our ruling clinton said we put a lid on iran s nuclear program without firing a single"
+3060	says donald trump says climate change hoax invented chinese	true	true	"answer:
+
+true
+
+reasoning:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2293	hate crimes american muslims mosques tripled paris san bernardino	true	true	"answer:
+
+the news item is true.
+
+
+"
+268	says donald trump said loves war including nukes	true	true	"answer:
+
+the news item is true.
+
+explanation:
+
+the news item is true because the news item is true.
+
+
+
+"
+1228	amount money hillary clinton would like spend refugees could rebuild every inner city america	false	true	"answer:
+
+true
+
+reason:
+
+the evidence provided is that trump said this, and that it is true.
+
+
+
+"
+2468	operatives said hey want use loophole purchasing guns despite watch list attack kill americans	true	true	"answer:
+
+true
+"
+1800	says hillary clinton filibustered legislation reform fannie mae freddie mac	false	true	"answer:
+
+true
+"
+1410	since welfare reform signed law number families living extreme poverty doubled	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the evidence does not support the claim that the number of families living in extreme poverty has doubled since welfare reform was signed into law in 1996. the article cites research by kathryn j. edin and h. luke shaefer, professors at johns hopkins university and the university of michigan, respectively, which found that the number of families living in extreme pover"
+892	wives 911 hijackers knew exactly happening went back saudi arabia two days attacks watch husbands television flying planes	false	false	"answer:
+
+false
+"
+634	great wall china built 2000 years ago 13000 miles long	true	false	"answer:
+
+the news item is false.
+
+it is not possible to build a wall 13,000 miles long.
+
+the great wall of china is approximately 4,000 miles long.
+
+the great wall of china was built over a period of 2,000 years, by several different dynasties.
+
+there are many other walls that were built by different dynasties and kingdoms around northern china.
+
+the great wall of china was"
+3520	higher rate tested lead people cleveland flint	true	true	"answer:
+
+the news item is true.
+"
+3215	says bernie sanders auto bailout voted money ended saving auto industry	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the auto bailout was funded by the troubled asset relief program (tarp).
+
+clinton is correct that sanders voted against tarp, but she is incorrect in saying that the auto bailout was funded by tarp.
+
+the tarp funds were used to bail out the banks, and the auto bailout was funded separately"
+3531	banks paid hillary clinton 1 million contributing millions elect	true	true	"answer:
+
+true
+"
+2459	twenty million americans work	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false because the sentence “20 million americans work but lack health coverage report finds at least 20 million working americans lack health insurance coverage according to a report released may 5 at a kickoff event for cover the uninsured week which begins monday the week sponsored by the robert wood johnson foundation with support from a broad coalition of business labor health care and other organizations"
+1244	gdp zero essentially last two quarters	false	false	"answer:
+
+this is false.
+
+\begin{blockquote}
+
+news content: gdp zero essentially last two quarters
+\end{blockquote}
+
+\begin{itemize}
+\item gdp zero essentially last two quarters
+\end{itemize}
+
+the sentence above is false.
+\begin{itemize}
+\item the gdp for the last two quarters was not zero.
+\end{itemize}
+
+\begin{blockquote}
+
+e"
+372	says president barack obama presiding jobs going overseas seven years	false	false	"answer:
+
+false
+
+reason:
+
+false
+
+explanation:
+
+
+"
+2906	six justices us supreme court confirmed presidential election years since 1912	true	true	"answer:
+
+true
+
+reason:
+
+this is a true statement.
+
+explanation:
+
+the statement is true.
+
+the evidence provided is sufficient to support the statement.
+
+references:
+
+[1] https://www.reddit.com/r/todayilearned/comments/4w0u6r/til_six_justices_on_the_us_supreme_court_have_been/
+
+["
+859	comes fighting terrorism another thing know not work based lots empirical evidence torture	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+the news item is false because the given news item does not describe a real news item.
+
+the news item is false because the given news item is not a real news item.
+
+the news item is false because the given news item is not a real news item.
+
+the news item is false because the given news item is not a real news item.
+
+the news item is false because the"
+723	says donald trump hillary clinton say planned parenthood keep taxpayer funding	false	false	"answer:
+
+false
+"
+2021	says donald trump promised repeal obamacare build wall ban muslims	true	true	"answer:
+
+true
+
+reason:
+
+this news item is true because it is authentic.
+
+source:
+
+https://www.washingtonpost.com/news/the-fix/wp/2016/11/14/donald-trumps-first-extended-remarks-since-winning-the-election-were-full-of-promises-he-might-not-be-able-to-"
+1531	clinton wants abolish second amendment	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+sources:
+
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22"
+2161	2006 donald trump hoping real estate crash	true	true	"answer:
+
+true
+"
+3483	wanted keep private dont think business want send money vets	false	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the news item is false because there is no evidence to support the claim that trump wanted to keep the list of veterans groups private.
+
+the news item is false because there is no evidence to support the claim that trump wanted to keep the list of veterans groups private.
+
+the news item is false because there is no evidence to support the claim that trump wanted to keep the list of veterans groups private.
+"
+2220	says donald trump wants undo marriage equality	true	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+### 2
+
+analyze the given news item to determine its authenticity and give your choice:
+
+news content: says donald trump wants undo marriage equality
+
+evidences: calendar 19 dec 2pm est 20 dec 12pm est 21 dec 2pm est"
+112	tremendous support women	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+"
+1513	list voters north carolina republicans tried purge black democratic	true	false	"answer:
+
+the news item is false.
+
+reasoning:
+
+the news item claims that a list of voters in north carolina were purge from the rolls by the republican party. however, according to the linked article, the list was created by a voter registration drive that was targeted at african-americans. the republican party was not involved in the voter registration drive, and therefore cannot be held responsible for the voter rolls."
+288	spanish first european language spoken country	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+reasoning:
+
+the news item is true because the first european language spoken in the united states was spanish.
+
+"
+673	nytimes sent letter subscribers apologizing bad coverage	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+trump tweeted that the new york times sent a letter to their subscribers apologizing for their bad coverage of him during the campaign.
+
+the new york times sent a letter to their subscribers apologizing for their bad coverage of him during the campaign.
+
+
+
+"
+170	donald trump protester speaks paid 3500 protest trumps rally	false	false	"answer:
+
+false"
+2730	10 cents clinton foundation goes charitable causes	false	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item is false.
+
+the news item is true.
+
+the news item"
+1306	says donald trump hasnt broken promise release tax returns	false	true	"answer:
+
+true
+"
+1094	right 90 percent health insurance covered thats highest weve ever country	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the actual news item is:
+
+trump: ""we are at 90 percent health insurance coverage that's the highest we've ever been in our country. clinton: ""donald has proposed to start over again all of those benefits. i just mentioned are lost to everybody not just people who get their health insurance on the exchange and then we would have to start all over again right"
+3008	ice endorsed	false	false	"answer:
+
+false
+
+explanation:
+
+news content: ice endorsed
+
+evidences: trump was not endorsed by ice donald trump announced during monday nights debate that he was just endorsed by ice but its actually a nongovernment agency representing border agents thats supporting him while discussing cybersecurity trump declared i was just endorsed by ice never endorsed anybody before on immigration i was just endorsed by"
+100	says hillary clinton set aside environmental labor rules help south korean company record violating workers rights set amounts sweatshop haiti	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item claims that hillary clinton set aside environmental labor rules to help a south korean company set up a sweatshop in haiti.
+
+the news item does not provide any evidence to support this claim.
+
+the news item does not provide any evidence to support this claim.
+
+the news item does not provide any evidence to support this claim.
+
+the news item"
+549	says ive proven right hillary clintons radical call open borders meaning anyone world enter united states without limit	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false.
+
+trump has accused clinton of making a radical call for open borders, meaning anyone in the world can enter the united states without any limit at all.
+
+clinton's immigration policy does not call for open borders, and a reference to open borders she made in a speech excerpted in a wikileaks release appears to have referred to energy policy, not the movement of people.
+"
+1298	dont chess grandmasters united states	false	false	"answer:
+
+the news item is false.
+
+the united states currently has 90 grandmasters, counting both men and women."
+1212	says hillary clinton let hook email scandal gen david petraeus life destroyed far far less	false	false	"answer:
+
+false
+
+explanation:
+
+hillary clinton was not let off the hook for her email scandal. she was not even the one who was charged with the scandal. it was her underling, who was charged and pleaded guilty to mishandling classified information.
+
+hillary clinton did not laugh at a rape victim. this is a fake news story.
+
+hillary clinton did not take tens of millions of dollars"
+1822	says hillary clinton wanted wall	true	true	"answer:
+
+true
+"
+2481	says hillary clinton wrong say mocked disabled reporter	false	true	"answer:
+
+true
+"
+2603	stories women saying groped forced largely debunked	false	false	"answer:
+
+false
+
+explanation:
+
+https://www.factcheck.org/2016/10/clintons-accusers-are-not-all-making-it-up/
+
+https://www.washingtonpost.com/news/fact-checker/wp/2016/10/14/the-debunked-list-of-clinton-accusers-that-trump-has-"
+330	russia tremendous numbers nuclear warheads 1800 way expanded didnt	true	false	"answer:
+
+the news item is false.
+
+the news item is true.
+
+the news item is true, but it is missing some information.
+
+the news item is true, but it is misleading.
+
+the news item is true, but it is missing some information.
+
+the news item is true, but it is misleading.
+
+the news item is true, but it is missing some information.
+
+the news item is true, but it is misleading"
+3147	even time donald trump didnt get emmy tv program three years row started tweeting emmys rigged	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the emmy awards are not rigged against donald trump.
+
+[correct answer]:
+
+false
+
+explanation:
+
+the news item is false. the emmy awards are not rigged against donald trump.
+
+"
+406	says donald trump first person running president republican democrat refused say would respect results election	true	false	"answer:
+
+the news item is false.
+
+evidences:
+
+1.the election that is a direct threat to our democracy
+
+2.clinton said to cheers some people are sore losers and he got ta just keep going she added at an october 24 rally in new hampshire
+
+3.clinton said trump was the first person running for president republican or democrat who refused to say that he would respect the results of this"
+820	says donald trump asked would defend allies said well first hed want know made payments us defend	true	true	"answer:
+
+true
+
+reason:
+
+in the news item, donald trump said that he would defend allies only if they make payments to the us to defend them. he didn't say that he would not defend them."
+2460	says hillary clinton wants let people pour could 650 million people pour nothing think thats could happen triple size country one week	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true."
+2763	illegal immigration costs country 113 billion year	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+it is estimated that illegal immigration costs the united states $113 billion a year.
+
+"
+2092	secure communities program immigration programs programs worked recklessly gutted obama administration	true	false	"answer:
+
+this is a false news item.
+
+reason:
+
+1. the news item is false.
+
+2. the news item is not true.
+
+3. the news item is not true.
+
+4. the news item is not true.
+
+5. the news item is not true.
+
+6. the news item is not true.
+
+7. the news item is not true.
+
+8. the news item is not true.
+"
+804	says donald trump record extensively supporting intervention libya	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is not true.
+
+
+
+
+"
+45	food stamps gone times barack obama	false	false	"answer:
+
+the news item is false.
+
+the number of people on food stamps has actually gone down under obama.
+
+[reference]:
+
+[factcheck.org](http://www.factcheck.org/2012/03/obamas-food-stamp-presidency/)
+"
+1539	veterans many cases treated worse illegal immigrants	false	false	"answer:
+
+false
+"
+2505	past eight years black youth unemployment	false	true	"answer:
+
+the news item is true.
+
+explanation:
+
+this is a news item and the source is a reliable one.
+
+references:
+
+1. https://www.washingtonpost.com/news/fact-checker/wp/2016/09/17/republican-post-misfires-on-black-youth-unemployment-over-the-past-eight-years-"
+684	says donald trump outlined policies read like kremlin wish list	true	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+
+reference:
+
+https://www.washingtonpost.com/news/fact-checker/wp/2016/10/11/donald-trump-outlined-policies-that-read-like-a-kremlin-wish-list/
+"
+153	nato opening major terror division im sure im not going get credit largely saying criticism nato	false	true	"answer:
+
+true
+"
+822	says hillary clintons energy agenda cost us economy 5 trillion	false	true	"answer:
+
+true
+
+explanation:
+
+true
+
+comment: i don't understand the explanation. can you please elaborate?
+
+comment: @kylecronin: i have updated my answer."
+2424	weve seen filibusters judicial nominees republicans president obama saw whole history united states senate	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item contains the following:
+
+> we ve seen more filibusters on judicial nominees by the republicans under president obama than we saw in the whole history of the united states senate
+
+this statement is false.
+
+the news item is a claim by a politician, who is not a reliable source.
+
+reason:
+
+the news item contains the following:
+"
+2149	corporations never made much money making	true	false	"answer:
+
+this news item is false.
+"
+361	theres no thing lone wolf phrase invented last administration make americans stupid	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+1950	wages havent gone long time	false	true	"answer:
+
+true
+
+reason:
+
+
+
+
+"
+2421	says conviction political witch hunt holdovers obama justice department	false	true	"answer:
+
+true
+
+
+
+
+"
+3125	2014 case involving man convicted abusing two underage girls judge roy moore disagreed wrote dissenting opinion	false	true	"answer:
+
+true
+
+explanation:
+
+true
+"
+2515	says obamas deadliest coverup explosion killed 29 miners uncovered internal government documents	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is not true.
+
+
+"
+670	syrian refugees women children full third kids 12 years old	true	true	"answer:
+
+true
+
+reason:
+
+i don't know how to do this yet.
+
+comment: welcome to skeptics! please read the [tour] and [help] pages. i'm not sure how you can improve your answer. if you're looking for the answer, it's ""true"".
+
+comment: @nkcampbell i have added an answer."
+3417	says 109 people hundreds thousands travelers affected immigration executive order	false	false	"answer:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+reason:
+
+false
+
+re"
+2507	says 72 refugees admitted us 23 211 court breakdown 7 countries syria iraq somalia iran sudan libya yemen	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item is true.
+
+the news item"
+1954	fake news cnn bernie sanders cut using term fake news describe network said technical difficulties	false	false	"answer:
+
+false
+
+explanation:
+
+the video is fake.
+
+https://www.youtube.com/watch?v=kz8v058ug9a
+
+https://www.youtube.com/watch?v=qm7xq0g5v0i
+
+https://www.youtube.com/watch?v=vqxw5wkjx60
+
+https://www.youtube.com/watch"
+736	im calling question accuracy ruling district judge seattle said no indication terrorism seven countries country	false	false	"answer:
+
+false
+
+explanation:
+
+the sentence ""for instance the district judge in seattle said there was no indication of terrorism from these seven countries in our country that is a factually false statement"" is not supported by the evidence.
+
+comment: this is incorrect. the sentence ""for instance the district judge in seattle said there was no indication of terrorism from these seven countries in our country that is a factually false statement"" is supported by the evidence."
+2268	stock market hit record numbers know tremendous surge optimism business world	true	true	"answer:
+
+the news item is true.
+"
+3115	obamacare premiums nationwide increased double triple digits	true	true	"answer:
+
+the news item is true.
+
+the claim that the premiums of health insurance have increased by double and triple digits is true.
+
+the news item is true.
+
+the claim that the premiums of health insurance have increased by double and triple digits is true.
+
+the news item is true.
+
+the claim that the premiums of health insurance have increased by double and triple digits is true.
+
+the news item is true.
+
+the claim"
+3390	general motors sending mexican made model chevy cruze us car free across border	true	true	"answer:
+
+true
+
+reasoning:
+
+the news item is true.
+
+
+"
+1911	activities foreign governments absolutely no effect outcome election	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the news item is true.
+
+
+
+
+
+
+
+"
+376	house gop rules package bars cbo counting spikes deficit spending spurred aca repeal	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the link to the article is:
+
+[https://www.dailykos.com/stories/2017/1/5/1628409/-house-gop-rules-package-bars-cbo-counting-spikes-in-deficit-spending-spurred-by-an-aca-re"
+2451	paying hotel room not gift present nothing office not emolument	true	false	"answer:
+
+false
+"
+2561	vast majority people got insurance president obamas obamacare affordable care act got medicaid	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the article does not make any claims about the number of people who got insurance through medicaid. it only mentions that ""the vast majority of people that got insurance under president obamas obamacare the affordable care act got it through medicaid"" and that ""the paul said what we have to decide is what can be kept and what cant be kept and thats going to be"
+2266	weve made countries rich wealth country dissipated horizon	false	true	"answer:
+
+true
+
+explanation:
+
+we've made other countries rich while the wealth strength and confidence of our country has dissipated over the horizon one by one the factories shuttered and left our shores with not even a thought about the millions and millions of american workers that were left behind the wealth of our middle class has been ripped from their homes and then redistributed all across the world.
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2235	poll came inauguration speech people loved loved liked	true	false	"answer:
+
+false
+
+reason:
+
+the news item is not authentic as it contains a lot of grammatical errors.
+"
+2457	says ice border patrol officers unanimously endorsed president	false	false	"answer:
+
+false
+
+reason:
+
+the link to the news item is not available."
+2793	various people fact committed terrorist acts country 911 none came seven countries subject presidents executive order	true	false	"answer:
+
+false
+"
+545	says john podesta refused give dnc server fbi cia disgraceful	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+845	amazon monopoly	false	true	"answer:
+
+answer: true
+
+explanation:
+
+the news item is true.
+
+in the news item, the president of the united states accused the washington post of being a lobbyist for amazon. he also accused amazon of having a monopoly.
+
+the washington post is owned by jeff bezos, the ceo of amazon.
+
+amazon collects sales taxes in every state.
+
+the president of the united states has accused amazon of not"
+1656	light leak financial disclosure info felony contacting fbi	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+884	majority president trumps supporters voters wanted united states stay paris agreement	false	false	"answer:
+
+false
+"
+3077	says senate deliberations affordable care act 2009 2010 included hundreds hours debate 100 republican amendments compared american health care act year	true	false	"answer:
+
+the news item is false.
+
+explanation:
+
+the news item is false.
+
+there were 100 hours of debate in 2017 for the american health care act, not zero.
+
+there were 100 amendments, not 171.
+
+the amendments were not ""more than 100 republican amendments"" as the news item states.
+
+the news item is false."
+1240	longstanding policy department justice not comment conversations attorney general president united states	true	true	"answer:
+
+true"
+2593	obamacare led fewer health insurance options millions americans	false	true	"answer:
+
+the news item is true.
+
+explaination:
+
+the article correctly states that the aca has led to higher health insurance costs and fewer health insurance options for millions of americans. the article also notes that the aca has failed the american people.
+
+the article correctly cites the white house's tweet as evidence for its claim. the tweet correctly states that the aca has led to higher health insurance costs and fewer health insurance options for millions"
+2499	not cuts medicaid gop health care proposals	false	false	"answer:
+
+false
+"
+593	says budget calls one largest increases national defense spending american history	false	true	"answer:
+
+true
+
+reason:
+
+because the news item is authentic.
+
+comment: could you please explain why?"
+1018	weve repealed regulations first time 20 years using congressional review act three regulations going cost economy hundreds millions dollars tens thousands jobs	true	true	"answer:
+
+true
+
+explanation:
+
+we've repealed regulations for the first time in 20 years using the congressional review act. three regulations that were going to cost the economy hundreds of millions of dollars and tens of thousands of jobs that is big progress. we're on schedule to repeal obamacare. big progress.
+
+his cabinet picks from a conservative point of view have exceeded my expectations. i think we'"
+1322	carbon dioxide not primary contributor global warming see	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the epa administrator said that carbon dioxide is not the primary contributor to global warming.
+"
+3282	first full month administration following issuance executive orders illegal immigration southern border fell unprecedented 40 percent	true	false	"answer:
+
+false"
+3469	according fbi mexican drug cartels working 100000 street gang members chicago alone	true	false	"answer:
+
+the news item is false.
+
+reason:
+
+the news item is false.
+
+evidences:
+
+- all across the country the fbi also says gang members are infiltrating law enforcement and the military in jails they re working with extremist groups from white supremacists to black separatists to muslim prison gangs on the outside gangs are committing more and more crossborder crimes according to the fbi mexican drug cart"
+1315	year no 1 14 million americans lose coverage according cbo	true	true	"answer:
+
+true
+
+reason:
+
+news content: year no 1 14 million americans lose coverage according cbo
+
+evidences: to lose insurance under senate gop healthcare plan under the senate republicans healthcare plan a recent congressional budget office report found 22 million americans would lose coverage over the next 10 years according to abc news here are five things to know 1 within the next year the report found 15"
+828	says paul manafort played limited role trump presidential campaign	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the white house spokesperson sean spicer said that paul manafort played a limited role for a very limited amount of time in the campaign.
+
+the news item is true.
+
+the white house spokesperson sean spicer said that paul manafort played a limited role for a very limited amount of time in the campaign.
+
+the news item is true"
+2778	minute president speaks someone ability declassify anything time without process	true	false	"answer:
+
+the news item is false.
+"
+1494	im proud say administration heard building first new heavy icebreakers united states seen 40 years	true	true	"answer:
+
+true"
+3398	says fbi texas state police confirming raymond peter man accused shooting texas church avid atheist payroll democrat national committee	false	false	"answer:
+
+false
+"
+1082	teachers spend 16 billion per year school supplies republican tax bill eliminates ability deduct expenses	true	true	"answer:
+
+true
+"
+3086	underreported fact president raised small dollar donations obama 2012 clinton bernie combined	true	true	"answer:
+
+the news item is true.
+
+reason:
+
+the news item is true because it is a fact.
+
+comment: please provide some reasoning as to why this is true.
+
+comment: the news item is true because it is a fact.
+
+comment: you should explain why it is a fact."
+874	republican tax bill not scored congressional budget office traditionally	false	false	"answer:
+
+false
+
+reasoning:
+
+the article says that the cbo is not scoring the gop's tax bill. but the cbo is actually scoring the gop's tax bill.
+"
+2626	dont pay income taxes youll money republican tax plan	false	false	"answer:
+
+false"
+1372	republicans proposing pay giant tax cut rich gutting medicare medicaid	true	false	"answer:
+
+false
+
+explanation:
+
+the claim is that the republicans are proposing to pay for their giant tax cut to the rich by gutting medicare and medicaid. this is false.
+
+there is no evidence that the republicans are proposing to pay for their tax cut by gutting medicare or medicaid.
+
+the republicans have proposed a tax cut that is projected to reduce tax revenue by $1.5 trillion over"
+3530	says 92 percent people agree	true	false	"answer:
+
+false
+"
+243	talked guns told position governor fact received endorsement nra	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the"
+42	ronald reagan amnesty	true	true	"answer:
+
+the news item is true.
+"
+647	illinois legislature barack obama voted present instead yes no seven votes involving abortion rights	true	false	"answer:
+
+false
+
+reason:
+
+
+
+
+
+
+"
+2139	obama basically threatened bomb pakistan	false	false	"answer:
+
+false
+
+explanation:
+
+the news item is not authentic.
+
+the quote from the news item is a fabrication.
+
+there is no evidence that barack obama threatened to bomb pakistan.
+
+[reference](https://www.quora.com/analyze-the-given-news-item-to-determine-its-authenticity-and-give-your-choice-news-content-obama-bas"
+1805	democrats budget resolution would raise americas tax bill	false	false	"answer:
+
+false
+
+reason:
+
+the news item is false. the article does not contain any evidence to support the claim that the democrats budget resolution would raise america's tax bill. in fact, the article states that the democrats' budget resolution would raise the tax bill for the wealthy while lowering the tax bill for the middle class. this is a clear contradiction of the claim that the democrats' budget resolution would raise america's tax bill.
+
+the article does"
+2096	obama voted energy bill put pocket big oil	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item is false.
+
+the news item"
+584	tenure washington illinois state senate barack obama accumulated record bipartisan success	true	true	"answer:
+
+the news item is true
+"
+179	obama wants windfall profits tax oil go along new taxes also plans coal natural gas	true	true	"answer:
+
+true
+
+reason:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+1449	barack obama wants unilaterally disarm nation	false	false	"answer:
+
+false
+"
+1542	made time go gym canceled visit wounded troops seems pentagon wouldnt allow bring cameras	false	true	"answer:
+
+true
+
+explanation:
+
+the news item is true. the ad is a misrepresentation of the facts.
+
+the ad is a misrepresentation of the facts. the news item is true.
+
+"
+2661	could save oil theyre talking getting drilling everybody inflating tires getting regular tuneups	true	false	"answer:
+
+false
+"
+2222	obama voted raise taxes people making	false	false	"answer:
+
+false
+"
+230	first obama opposed surge confidently predicted would fail tried prevent funding troops carried surge	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+
+
+"
+2669	says mccain supported george bushs policies 95 percent time	true	true	"answer:
+
+true
+
+explanation:
+
+the news item is true.
+
+the ad is accurate in saying that mccain voted with bush 95% of the time, but the ad is misleading because it makes it sound like mccain is an unwavering supporter of bush.
+
+the ad also implies that obama's policies are better than mccain's because he voted with bush less often.
+
+but mccain's voting record is not"
+3050	today import triple amount oil day senator mccain took office	true	false	"answer:
+
+false
+
+explanation:
+
+1. the news item is about a speech by the presidential candidate, barack obama, given at the university of iowa.
+2. the speech was given on august 15, 2008.
+3. the news item is about the speech, not the speech itself.
+4. the speech is not about the oil addiction, but about the need to end the addiction and the need to understand that dr"
+730	governor ive stood big oil companies	true	true	"answer:
+
+true
+
+reason:
+
+the news item is true.
+
+explanation:
+
+the news item is true.
+
+"
+832	palin inherited city zero debt left indebtedness	true	false	"answer:
+
+false
+
+explanation:
+
+the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the news item is false. the"
+2712	barack obama trial attorney acorn	true	false	"answer:
+
+the news item is false.
+
+here are some of the reasons for my answer:
+
+the news item is a complete fabrication.
+
+there is no evidence of any kind to support the claims in the news item.
+
+the news item is a complete fabrication.
+
+there is no evidence of any kind to support the claims in the news item.
+
+the news item is a complete fabrication.
+
+there is no evidence of any kind to support the claims"
