@@ -54,21 +54,3 @@ or
 sh run_politifact.sh (on the PolitiFact dataset)
 ```
 
-## Citation
-
-Please cite our paper if you use the code:
-
-```
-@misc{xu2022evidenceaware,
-      title={Evidence-aware Fake News Detection with Graph Neural Networks},
-      author={Weizhi Xu and Junfei Wu and Qiang Liu and Shu Wu and Liang Wang},
-      year={2022},
-      eprint={2201.06885},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-
-```
-
-## Acknowledgement
-The general structure of our codes inherites from the open-source codes of [MAC](https://github.com/nguyenvo09/EACL2021), we thank them for their great contribution to the research community of fake news detection.
