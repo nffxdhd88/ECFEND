@@ -1,6 +1,6 @@
 # ECFEND
 
-Source code and datasets for the paper "Evidence-aware Fake News Detection with Graph Neural Networks".
+Source code and datasets for the paper "Enhancing Fake News Detection by Incorporating Evidence Credibility".
 
 ## Requirements
 
